@@ -1,1 +1,2 @@
-# demonology
+# Demonology
+Generic demons and shit.
