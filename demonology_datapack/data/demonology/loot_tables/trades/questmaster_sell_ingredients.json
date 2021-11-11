@@ -1,0 +1,25 @@
+{
+"type": "minecraft:entity",
+"pools": [
+{
+"rolls": 1,
+"entries": [
+{
+"type": "minecraft:item",
+"functions": [
+{
+"function": "minecraft:set_count",
+"count": 3
+}],
+"name": "minecraft:blaze_rod"
+},
+{
+"type": "minecraft:item",
+"functions": [
+{
+"function": "minecraft:set_count",
+"count": 5
+}],
+"name": "minecraft:magma_cream"
+}
+]}]}

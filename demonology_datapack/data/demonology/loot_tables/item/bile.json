@@ -1,0 +1,32 @@
+{
+"type": "generic",
+"pools": [
+{
+"rolls": 1,
+"entries": [
+{
+"type": "item",
+"weight": 1,
+"name": "minecraft:slime_ball",
+"functions": [
+{
+"function": "set_count",
+"count": 1
+},
+{
+"function": "set_nbt",
+"tag": "{CustomModelData:7130000,id:\"demonology:bile\"}"
+},
+{
+"function": "set_name",
+"name": [
+{
+"translate": "avian.item.bile",
+"italic": "false"
+}]},
+{
+"function": "set_lore",
+"lore": [
+{
+"translate": "avian.datapack.demonology"
+}]}]}]}]}
