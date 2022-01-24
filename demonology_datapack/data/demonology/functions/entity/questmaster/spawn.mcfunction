@@ -1,5 +1,0 @@
-summon wandering_trader ~ ~ ~ {DeathTime:19s,Team:"global.antivil",Silent:1b,Tags:["global.ignore","avian.scanned","avian.entity","avian.entity_tick","demonology.entity.questmaster","demonology.entity_type.angelic","avian.new_entity"],Health:40f,PersistenceRequired:1b,CustomName:'{"translate":"avian.entity.questmaster"}',HandItems:[{id:"minecraft:leather_horse_armor",Count:1b,tag:{CustomModelData:7130001}},{}],HandDropChances:[0.0f,0.0f],Attributes:[{Name:generic.max_health,Base:40},{Name:generic.movement_speed,Base:0.6}],ActiveEffects:[{Id:12b,Amplifier:0b,Duration:1000000,ShowParticles:0b},{Id:13b,Amplifier:0b,Duration:1000000,ShowParticles:0b},{Id:14b,Amplifier:0b,Duration:1000000,ShowParticles:0b}],DespawnDelay:36000,ArmorItems:[{},{},{},{id:"minecraft:jigsaw",Count:1b,tag:{CustomModelData:7131000}}],ArmorDropChances:[0.085F,0.085F,0.085F,-999.000F]}
-
-execute as @e[tag=demonology.entity.questmaster,tag=avian.new_entity] run function demonology:entity/questmaster/modify
-
-tag @e[tag=avian.new_entity,tag=demonology.entity.questmaster] remove avian.new_entity

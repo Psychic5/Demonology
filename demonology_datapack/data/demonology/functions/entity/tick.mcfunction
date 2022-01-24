@@ -1,1 +1,0 @@
-execute if data entity @s {Tags:["demonology.entity.questmaster"]} run function demonology:entity/questmaster/tick
