@@ -1,0 +1,11 @@
+{
+	"demonology.entity.imp": "Imp",
+	
+	"demonology.subtitle.entity.imp.ambient": "Imp cackles",
+	"demonology.subtitle.entity.imp.hurt": "Imp hurts",
+	"demonology.subtitle.entity.imp.death": "Imp dies",
+	"demonology.subtitle.entity.imp.cast": "Imp chants",
+	"demonology.subtitle.entity.imp.fly": "Imp flaps",
+	
+	"demonology.death.imp": "%s got a footfull of %s's pyromancy"
+}
