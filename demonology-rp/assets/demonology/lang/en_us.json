@@ -1,4 +1,8 @@
 {
+	"demonology.pack": "Demonology",
+	
+	"demonology.item.chevon": "Raw Chevon",
+	"demonology.item.cooked_chevon": "Cooked Chevon",
 	"demonology.item.lingo_basics": "Abyssal for Dummies",
 	"demonology.item.lingo_advanced": "Advanced Abyssal",
 	"demonology.item.spectrometer": "Spectrometer",
