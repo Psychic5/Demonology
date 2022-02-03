@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{demonology:{id:\"chevon\"},CustomModelData:7131000}"
+              "tag": "{tcc:{gobblerift_meat:1b},demonology:{id:\"chevon\"},CustomModelData:7131000}"
             },
             {
               "function": "minecraft:set_name",

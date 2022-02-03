@@ -1,0 +1,18 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "block": {
+          "blocks": [
+            "minecraft:furnace",
+            "minecraft:smoker",
+            "minecraft:blast_furnace"
+          ],
+          "nbt": "{BurnTime:0s}"
+        }
+      }
+    }
+  ]
+}

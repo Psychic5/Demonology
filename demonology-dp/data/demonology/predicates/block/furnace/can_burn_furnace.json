@@ -1,0 +1,26 @@
+[
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "block": {
+          "nbt": "{Items:[{Slot:2b,Count:64b}]}"
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "demonology:block/furnace/checks/chevon_already_furnace"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "demonology:block/furnace/checks/chevon_pre_furnace"
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "block": {
+          "nbt": "{Items:[{Slot:2b}]}"
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "block": {
+        "blocks": [
+          "minecraft:furnace"
+        ],
+        "nbt": "{Items:[{Slot:0b,tag:{demonology:{id:\"chevon\"}}}]}"
+      }
+    }
+  }
+]
