@@ -1,6 +1,9 @@
 {
 	"demonology.item.lingo_basics": "Abyssal for Dummies",
 	"demonology.item.lingo_advanced": "Advanced Abyssal",
+	"demonology.item.spectrometer": "Spectrometer",
+	
+	"demonology.subtitle.item.spectrometer": "Spectrometer clicks",
 	
 	"demonology.entity.portal": "Vortex",
 	"demonology.entity.imp": "Imp",
@@ -15,7 +18,8 @@
 	"demonology.subtitle.entity.imp.hurt": "Imp hurts",
 	"demonology.subtitle.entity.imp.death": "Imp dies",
 	"demonology.subtitle.entity.imp.mock": "Imp cackles",
-	"demonology.subtitle.entity.imp.cast": "Imp chants",
+	"demonology.subtitle.entity.imp.prepare_cast": "Imp chants",
+	"demonology.subtitle.entity.imp.cast": "Imp casts",
 	"demonology.subtitle.entity.imp.fly": "Imp flaps",
 	"demonology.subtitle.entity.cherub.spawn": "Cherub materializes",
 	"demonology.subtitle.entity.cherub.despawn": "Cherub poofs",

@@ -1,0 +1,1 @@
+execute as @e[tag=demonology.entity] at @s run function demonology:entity/tick

@@ -155,9 +155,9 @@
 		}
 	],
 	"display": {
-		"head": {
-			"translation": [0, -18.5, 0],
-			"scale": [2, 2, 2]
+		"ground": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -9.6, -6]
 		}
 	},
 	"groups": [
