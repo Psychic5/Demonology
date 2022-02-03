@@ -1,0 +1,1 @@
+execute as @s[tag=demonology.block.furnace] run function demonology:block/furnace/tick

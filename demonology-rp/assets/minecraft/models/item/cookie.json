@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/beef"
+    "layer0": "minecraft:item/cookie"
               },
   "overrides": [
 	{ "predicate": { "custom_model_data": 7131000 }, "model": "demonology:item/chevon" }

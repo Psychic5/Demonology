@@ -1,0 +1,3 @@
+execute if block ~ ~ ~ minecraft:furnace run summon minecraft:marker ~ ~ ~ {Tags:["demonology.block","demonology.block.furnace","demonology.block.furnace.furnace"]}
+execute if block ~ ~ ~ minecraft:smoker run summon minecraft:marker ~ ~ ~ {Tags:["demonology.block","demonology.block.furnace","demonology.block.furnace.smoker"]}
+execute if block ~ ~ ~ minecraft:blast_furnace run summon minecraft:marker ~ ~ ~ {Tags:["demonology.block","demonology.block.furnace","demonology.block.furnace.blast_furnace"]}

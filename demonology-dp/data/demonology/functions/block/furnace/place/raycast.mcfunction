@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ #demonology:furnace align xyz positioned ~0.5 ~0.5 ~0.5 unless entity @e[tag=demonology.block.furnace,distance=0..0.2] run function demonology:block/furnace/place/end
+execute if entity @s[distance=0..7] unless block ~ ~ ~ #demonology:furnace positioned ^ ^ ^0.025 run function demonology:block/furnace/place/raycast
