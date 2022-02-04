@@ -1,6 +1,11 @@
 {
 	"demonology.pack": "Demonology",
 	
+	"demonology.ui.config": "- CONFIG -",
+	"demonology.ui.false": "[False]",
+	"demonology.ui.true": "[True]",
+	"demonology.ui.gamerule.rain_totems": "Allow Rain Totems ",
+	
 	"demonology.item.brimscale": "Brimscale",
 	"demonology.item.chevon": "Raw Chevon",
 	"demonology.item.cooked_chevon": "Cooked Chevon",
