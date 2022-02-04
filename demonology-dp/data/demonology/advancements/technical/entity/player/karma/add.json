@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "trading": {
+      "trigger": "minecraft:villager_trade"
+    },
+    "breed": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": [
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:goat"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "tame": {
+      "trigger": "minecraft:tame_animal"
+    }
+  },
+  "requirements": [
+    [
+      "trading",
+      "breed",
+      "tame"
+    ]
+  ],
+  "rewards": {
+    "function": "demonology:entity/player/karma/add"
+  }
+}

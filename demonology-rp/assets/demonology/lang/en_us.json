@@ -1,6 +1,7 @@
 {
 	"demonology.pack": "Demonology",
 	
+	"demonology.item.brimscale": "Brimscale",
 	"demonology.item.chevon": "Raw Chevon",
 	"demonology.item.cooked_chevon": "Cooked Chevon",
 	"demonology.item.lingo_basics": "Abyssal for Dummies",
@@ -11,9 +12,10 @@
 	
 	"demonology.entity.portal": "Vortex",
 	"demonology.entity.imp": "Imp",
-	"demonology.entity.cherub": "Cherub",
 	"demonology.entity.stalkerx": "Stalker",
 	"demonology.entity.demonologer": "Demonologer",
+	"demonology.entity.cherub": "Cherub",
+	"demonology.entity.virtue": "Virtue",
 	
 	"demonology.subtitle.entity.vortex.spawn": "Vortex materializes",
 	"demonology.subtitle.entity.vortex.despawn": "Vortex fades",
@@ -43,6 +45,13 @@
 	"demonology.subtitle.entity.stalker.light": "Stalker growls",
 	"demonology.subtitle.entity.stalker.chase": "Stalker cackles",
 	"demonology.subtitle.entity.stalker.track": "Stalker glares",
+	"demonology.subtitle.entity.virtue.spawn": "Virtue materializes",
+	"demonology.subtitle.entity.virtue.despawn": "Virtue poofs",
+	"demonology.subtitle.entity.virtue.ambient": "Virtue sings",
+	"demonology.subtitle.entity.virtue.hurt": "Virtue hurts",
+	"demonology.subtitle.entity.virtue.death": "Virtue dies",
+	"demonology.subtitle.entity.virtue.smite": "Virtue weeps",
+	"demonology.subtitle.entity.virtue.hire": "Virtue shimmers",
 	
 	"demonology.death.smited": "%s tampered with what shouldn't be",
 	"demonology.death.vortex": "%s was sucked into the Underworld",

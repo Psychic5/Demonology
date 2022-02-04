@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "demonology:entity/ophanim/ophanim",
-		"particle": "demonology:entity/ophanim/ophanim"
+		"0": "demonology:entity/virtue/virtue",
+		"particle": "demonology:entity/virtue/virtue"
 	},
 	"elements": [
 		{
@@ -59,6 +59,19 @@
 			}
 		},
 		{
+			"name": "Halo Bottom inverted",
+			"from": [10, 26, 11],
+			"to": [6, 25, 7],
+			"faces": {
+				"north": {"uv": [6, 6.25, 5, 6], "texture": "#0"},
+				"east": {"uv": [7, 6.25, 6, 6], "texture": "#0"},
+				"south": {"uv": [4, 6.25, 3, 6], "texture": "#0"},
+				"west": {"uv": [5, 6.25, 4, 6], "texture": "#0"},
+				"up": {"uv": [5, 6.25, 6, 7.25], "texture": "#0"},
+				"down": {"uv": [4, 7.25, 5, 6.25], "texture": "#0"}
+			}
+		},
+		{
 			"name": "Halo Top",
 			"from": [2, 27, 3],
 			"to": [14, 28, 15],
@@ -69,6 +82,19 @@
 				"west": {"uv": [6, 12.75, 9, 13], "texture": "#0"},
 				"up": {"uv": [6, 12.75, 3, 9.75], "texture": "#0"},
 				"down": {"uv": [9, 9.75, 6, 12.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Halo Top inverted",
+			"from": [12, 28, 13],
+			"to": [4, 27, 5],
+			"faces": {
+				"north": {"uv": [8, 13.25, 6, 13], "texture": "#0"},
+				"east": {"uv": [10, 13.25, 8, 13], "texture": "#0"},
+				"south": {"uv": [4, 13.25, 2, 13], "texture": "#0"},
+				"west": {"uv": [6, 13.25, 4, 13], "texture": "#0"},
+				"up": {"uv": [6, 13.25, 8, 15.25], "texture": "#0"},
+				"down": {"uv": [4, 15.25, 6, 13.25], "texture": "#0"}
 			}
 		},
 		{
@@ -183,7 +209,7 @@
 			"name": "Arm Right",
 			"from": [13, -2, 6],
 			"to": [16, 9, 9],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 7]},
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [14, 8, 7]},
 			"faces": {
 				"north": {"uv": [0.75, 9.5, 1.5, 12.25], "texture": "#0"},
 				"east": {"uv": [0, 9.5, 0.75, 12.25], "texture": "#0"},
@@ -198,7 +224,7 @@
 			"from": [0, -2, 6],
 			"to": [3, 9, 9],
 			"shade": false,
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 7]},
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [2, 8, 7]},
 			"faces": {
 				"north": {"uv": [1.5, 9.5, 0.75, 12.25], "texture": "#0"},
 				"east": {"uv": [2.25, 9.5, 1.5, 12.25], "texture": "#0"},
@@ -225,7 +251,7 @@
 					"name": "Body",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [0, 1, 2, 3, 4]
+					"children": [0, 1, 2, 3, 4, 5, 6]
 				},
 				{
 					"name": "Wings",
@@ -236,13 +262,13 @@
 							"name": "Lower",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [5, 6, 7, 8]
+							"children": [7, 8, 9, 10]
 						},
 						{
 							"name": "Upper",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [9, 10, 11, 12]
+							"children": [11, 12, 13, 14]
 						}
 					]
 				},
@@ -250,7 +276,7 @@
 					"name": "Arms",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [13, 14]
+					"children": [15, 16]
 				}
 			]
 		}

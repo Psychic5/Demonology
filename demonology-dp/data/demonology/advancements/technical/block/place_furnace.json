@@ -1,5 +1,4 @@
 {
-  "parent": "demonology:technical/root",
   "criteria": {
     "furnace": {
       "trigger": "minecraft:placed_block",

@@ -1,0 +1,2 @@
+execute if score @s demonology.karma matches ..-101 run scoreboard players set @s demonology.karma -100
+execute if score @s demonology.karma matches 101.. run scoreboard players set @s demonology.karma 100
