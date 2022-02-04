@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:location_check",
+  "predicate": {
+    "block": {
+      "blocks": [
+        "minecraft:furnace"
+      ],
+      "nbt": "{Items:[{Slot:0b,tag:{spec:{id:\"chevon\"}}},{Slot:2b,tag:{spec:{id:\"cooked_chevon\"}}}]}"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+              },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:empty" },
+	{ "predicate": { "custom_model_data": 7131001 }, "model": "spec:entity/imp/idle" },
+	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:entity/imp/moving" },
+	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:entity/imp/hover" },
+	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:entity/imp/casting" }
+  ]
+}

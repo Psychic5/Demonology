@@ -1,0 +1,13 @@
+{
+  "entity.imp.ambient": { "subtitle": "spec.subtitle.entity.imp.ambient", "sounds": [
+"spec:entity/imp/idle0", "spec:entity/imp/idle1", "spec:entity/imp/idle2", "spec:entity/imp/idle3" ]},
+
+  "entity.imp.hurt": { "subtitle": "spec.subtitle.entity.imp.hurt", "sounds": [
+"spec:entity/imp/hurt0", "spec:entity/imp/hurt1", "spec:entity/imp/hurt2" ]},
+
+  "entity.imp.death": { "subtitle": "spec.subtitle.entity.imp.death", "sounds": [
+"spec:entity/imp/death0", "spec:entity/imp/death1", "spec:entity/imp/death2" ]},
+
+  "item.spectrometer.use": { "subtitle": "spec.subtitle.item.spectrometer", "sounds": [
+"minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]}
+}

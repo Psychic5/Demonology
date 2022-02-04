@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "furnace": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:furnace"
+      }
+    },
+    "smoker": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:smoker"
+      }
+    },
+    "blast_furnace": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:blast_furnace"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "furnace",
+      "smoker",
+      "blast_furnace"
+    ]
+  ],
+  "rewards": {
+    "function": "spec:block/furnace/place/start"
+  }
+}
