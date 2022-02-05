@@ -8,6 +8,18 @@
   "entity.imp.death": { "subtitle": "spec.subtitle.entity.imp.death", "sounds": [
 "spec:entity/imp/death0", "spec:entity/imp/death1", "spec:entity/imp/death2" ]},
 
+  "entity.cherub.ambient": { "subtitle": "spec.subtitle.entity.cherub.ambient", "sounds": [
+"spec:entity/cherub/idle0", "spec:entity/cherub/idle1", "spec:entity/cherub/idle2", "spec:entity/cherub/idle3" ]},
+
+  "entity.cherub.hurt": { "subtitle": "spec.subtitle.entity.cherub.hurt", "sounds": [
+"spec:entity/cherub/hurt0", "spec:entity/cherub/hurt1", "spec:entity/cherub/hurt2" ]},
+
+  "entity.cherub.death": { "subtitle": "spec.subtitle.entity.cherub.death", "sounds": [
+"spec:entity/cherub/death" ]},
+
+  "entity.cherub.fanfare": { "subtitle": "spec.subtitle.entity.cherub.fanfare", "sounds": [
+"spec:entity/cherub/fanfare" ]},
+
   "item.spectrometer.use": { "subtitle": "spec.subtitle.item.spectrometer", "sounds": [
 "minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]},
 

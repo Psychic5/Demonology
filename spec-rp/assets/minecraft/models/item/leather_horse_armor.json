@@ -8,6 +8,8 @@
 	{ "predicate": { "custom_model_data": 7131001 }, "model": "spec:entity/imp/idle" },
 	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:entity/imp/moving" },
 	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:entity/imp/hover" },
-	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:entity/imp/casting" }
+	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:entity/imp/casting" },
+	{ "predicate": { "custom_model_data": 7131005 }, "model": "spec:entity/cherub/idle" },
+	{ "predicate": { "custom_model_data": 7131006 }, "model": "spec:entity/cherub/moving" }
   ]
 }

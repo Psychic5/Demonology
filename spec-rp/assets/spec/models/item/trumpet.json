@@ -156,8 +156,12 @@
 			"translation": [0, 6, 0]
 		},
 		"gui": {
-			"rotation": [118.61, -53.56, 109.95],
+			"rotation": [92.02, -59.79, 111.56],
 			"translation": [-1, 1, 0]
+		},
+		"fixed": {
+			"rotation": [90, 47.25, -90],
+			"translation": [2.5, 1, 0]
 		}
 	}
 }

@@ -7,6 +7,7 @@
 	"spec.ui.gamerule.rain_totems": "Allow Rain Totems ",
 	
 	"spec.item.brimscale": "Brimscale",
+	"spec.item.pearl": "Pearl",
 	"spec.item.chevon": "Raw Chevon",
 	"spec.item.cooked_chevon": "Cooked Chevon",
 	"spec.item.lingo_basics": "Abyssal for Dummies",
@@ -41,7 +42,7 @@
 	"spec.subtitle.entity.cherub.death": "Cherub dies",
 	"spec.subtitle.entity.cherub.smite": "Cherub roars",
 	"spec.subtitle.entity.cherub.trade": "Cherub flutters",
-	"spec.subtitle.entity.cherub.trumpet": "Cherub blares trumpet",
+	"spec.subtitle.entity.cherub.fanfare": "Cherub blares trumpet",
 	"spec.subtitle.entity.demonologer.ambient": "Demonologer mutters",
 	"spec.subtitle.entity.demonologer.hurt": "Demonologer hurts",
 	"spec.subtitle.entity.demonologer.death": "Demonologer dies",
