@@ -1,6 +1,7 @@
 {
    "values":[
       "spec:technical/load",
-      "spec:technical/tick_1s"
+      "spec:technical/tick_1s",
+      "spec:technical/tick_10s"
    ]
 }

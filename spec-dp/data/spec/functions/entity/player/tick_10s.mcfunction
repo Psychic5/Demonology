@@ -1,0 +1,1 @@
+execute if predicate spec:entity/cherub/spawn run function spec:entity/cherub/spawn/start

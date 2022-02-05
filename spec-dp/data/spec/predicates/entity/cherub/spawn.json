@@ -1,0 +1,18 @@
+[
+  {
+    "condition": "minecraft:random_chance",
+    "chance": 0.1
+  },
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "position": {
+        "y": {
+          "min": 60,
+          "max": 512
+        }
+      },
+      "dimension": "minecraft:overworld"
+    }
+  }
+]
