@@ -3,5 +3,5 @@ loot replace entity @s weapon.offhand loot spec:item/trumpet
 data modify entity @s Offers.Recipes[-1].sell set from entity @s HandItems[1]
 loot replace entity @s weapon.offhand loot spec:item/pearl
 data modify entity @s Offers.Recipes[-1].buy set from entity @s HandItems[1]
-data modify entity @s Offers.Recipes[-1].buy.Count set value 30
+data modify entity @s Offers.Recipes[-1].buy.Count set value 20
 item replace entity @s weapon.offhand with air

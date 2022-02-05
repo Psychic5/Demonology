@@ -1,0 +1,1 @@
+execute as @s[tag=spec.entity.cherub.animations.trumpet] run function spec:entity/cherub/animations/trumpet/tick

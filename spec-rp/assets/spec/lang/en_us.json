@@ -59,8 +59,14 @@
 	"spec.subtitle.entity.virtue.ambient": "Virtue sings",
 	"spec.subtitle.entity.virtue.hurt": "Virtue hurts",
 	"spec.subtitle.entity.virtue.death": "Virtue dies",
-	"spec.subtitle.entity.virtue.smite": "Virtue weeps",
-	"spec.subtitle.entity.virtue.hire": "Virtue shimmers",
+	"spec.subtitle.entity.virtue.smite": "Virtue roars",
+	"spec.subtitle.entity.virtue.judge": "Virtue judges",
+	
+	"spec.dialog.virtue.neutral": "<%s> Hmm, your soul is in perfect balance. We have not to advise",
+	"spec.dialog.virtue.dark": "<%s> Your soul opposes the tradition of our people. Beware.",
+	"spec.dialog.virtue.very_dark": "<%s> Your soul disgusts us greatly. Begone.",
+	"spec.dialog.virtue.light": "<%s> Your soul is following the path of Light. Applauded.",
+	"spec.dialog.virtue.very_light": "<%s> A dedicated spirit to the Light. Great applause.",
 	
 	"spec.death.smited": "%s tampered with what shouldn't be",
 	"spec.death.vortex": "%s was sucked into the Underworld",

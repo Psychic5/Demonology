@@ -10,6 +10,18 @@
 	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:entity/imp/hover" },
 	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:entity/imp/casting" },
 	{ "predicate": { "custom_model_data": 7131005 }, "model": "spec:entity/cherub/idle" },
-	{ "predicate": { "custom_model_data": 7131006 }, "model": "spec:entity/cherub/moving" }
+	{ "predicate": { "custom_model_data": 7131006 }, "model": "spec:entity/cherub/moving" },
+	{ "predicate": { "custom_model_data": 7131007 }, "model": "spec:entity/cherub/animations/trumpet/1" },
+	{ "predicate": { "custom_model_data": 7131008 }, "model": "spec:entity/cherub/animations/trumpet/2" },
+	{ "predicate": { "custom_model_data": 7131009 }, "model": "spec:entity/cherub/animations/trumpet/3" },
+	{ "predicate": { "custom_model_data": 7131010 }, "model": "spec:entity/cherub/animations/trumpet/4" },
+	{ "predicate": { "custom_model_data": 7131011 }, "model": "spec:entity/cherub/animations/trumpet/5" },
+	{ "predicate": { "custom_model_data": 7131012 }, "model": "spec:entity/cherub/animations/trumpet/6" },
+	{ "predicate": { "custom_model_data": 7131013 }, "model": "spec:entity/cherub/animations/trumpet/7" },
+	{ "predicate": { "custom_model_data": 7131014 }, "model": "spec:entity/cherub/animations/trumpet/8" },
+	{ "predicate": { "custom_model_data": 7131015 }, "model": "spec:entity/cherub/animations/trumpet/9" },
+	{ "predicate": { "custom_model_data": 7131016 }, "model": "spec:entity/cherub/animations/trumpet/10" },
+	{ "predicate": { "custom_model_data": 7131017 }, "model": "spec:entity/cherub/animations/trumpet/11" },
+	{ "predicate": { "custom_model_data": 7131018 }, "model": "spec:entity/cherub/animations/trumpet/12" }
   ]
 }

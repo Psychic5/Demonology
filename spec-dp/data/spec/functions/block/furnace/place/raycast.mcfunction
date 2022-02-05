@@ -1,2 +1,2 @@
 execute if block ~ ~ ~ #spec:furnace align xyz positioned ~0.5 ~0.5 ~0.5 unless entity @e[tag=spec.block.furnace,distance=0..0.2] run function spec:block/furnace/place/end
-execute if entity @s[distance=0..7] unless block ~ ~ ~ #spec:furnace positioned ^ ^ ^0.025 run function spec:block/furnace/place/raycast
+execute if entity @s[distance=..7] unless block ~ ~ ~ #spec:furnace positioned ^ ^ ^0.025 run function spec:block/furnace/place/raycast

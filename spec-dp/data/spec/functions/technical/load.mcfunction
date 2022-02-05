@@ -1,3 +1,4 @@
+scoreboard objectives add spec.animation dummy
 scoreboard objectives add spec.temp dummy
 scoreboard objectives add spec.dummy dummy
 scoreboard objectives add spec.dummy2 dummy
