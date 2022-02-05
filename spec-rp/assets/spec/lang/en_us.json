@@ -12,8 +12,10 @@
 	"spec.item.lingo_basics": "Abyssal for Dummies",
 	"spec.item.lingo_advanced": "Advanced Abyssal",
 	"spec.item.spectrometer": "Spectrometer",
+	"spec.item.trumpet": "Trumpet",
 	
 	"spec.subtitle.item.spectrometer": "Spectrometer clicks",
+	"spec.subtitle.item.trumpet": "Trumpet doots",
 	
 	"spec.entity.portal": "Vortex",
 	"spec.entity.imp": "Imp",
@@ -39,6 +41,7 @@
 	"spec.subtitle.entity.cherub.death": "Cherub dies",
 	"spec.subtitle.entity.cherub.smite": "Cherub roars",
 	"spec.subtitle.entity.cherub.trade": "Cherub flutters",
+	"spec.subtitle.entity.cherub.trumpet": "Cherub blares trumpet",
 	"spec.subtitle.entity.demonologer.ambient": "Demonologer mutters",
 	"spec.subtitle.entity.demonologer.hurt": "Demonologer hurts",
 	"spec.subtitle.entity.demonologer.death": "Demonologer dies",

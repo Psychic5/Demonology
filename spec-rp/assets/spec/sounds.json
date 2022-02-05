@@ -9,5 +9,8 @@
 "spec:entity/imp/death0", "spec:entity/imp/death1", "spec:entity/imp/death2" ]},
 
   "item.spectrometer.use": { "subtitle": "spec.subtitle.item.spectrometer", "sounds": [
-"minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]}
+"minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]},
+
+  "item.trumpet.use": { "subtitle": "spec.subtitle.item.trumpet", "sounds": [
+"spec:item/doot" ]}
 }
