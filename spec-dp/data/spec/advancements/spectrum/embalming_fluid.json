@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potion",
+      "nbt": "{CustomPotionColor:15924223,CustomModelData:7131000}"
+    },
+    "title": {
+      "translate": "spec.advancement.spectrum.embalming_fluid"
+    },
+    "description": {
+      "translate": "spec.advancement.spectrum.embalming_fluid.desc"
+    }
+  },
+  "parent": "spec:spectrum/yhara",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{spec:{id:\"embalming_fluid\"}}"
+          }
+        ]
+      }
+    }
+  }
+}

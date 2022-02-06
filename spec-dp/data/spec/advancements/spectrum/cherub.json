@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block",
+      "nbt": "{CustomModelData:7131002}"
+    },
+    "title": {
+      "translate": "spec.advancement.spectrum.cherub"
+    },
+    "description": {
+      "translate": "spec.advancement.spectrum.cherub.desc"
+    }
+  },
+  "parent": "spec:spectrum/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "villager": {
+          "nbt": "{Tags:[\"spec.entity.cherub\"]}"
+        }
+      }
+    }
+  }
+}

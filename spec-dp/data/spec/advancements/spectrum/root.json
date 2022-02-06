@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block",
+      "nbt": "{CustomModelData:7131000}"
+    },
+    "title": {
+      "translate": "spec.advancement.spectrum.root"
+    },
+    "description": {
+      "translate": "spec.advancement.spectrum.root.desc"
+    },
+    "background": "minecraft:textures/block/snow.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "demonic": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"spec.tag.demonic\"]}"
+        }
+      }
+    },
+    "angelic": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "villager": {
+          "nbt": "{Tags:[\"spec.entity.cherub\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "angelic",
+      "demonic"
+    ]
+  ]
+}

@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"brimscale\"},CustomModelData:7131000}"
+              "tag": "{spec:{id:\"brimscale\"},CustomModelData:7131001}"
             },
             {
               "function": "minecraft:set_name",

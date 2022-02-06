@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"embalming_fluid\"},CustomPotionColor:11976055,Potion:\"minecraft:mundane\",HideFlags:32}"
+              "tag": "{spec:{id:\"embalming_fluid\"},CustomModelData:7131000,CustomPotionColor:15924223,Potion:\"minecraft:mundane\",HideFlags:32}"
             },
             {
               "function": "minecraft:set_name",

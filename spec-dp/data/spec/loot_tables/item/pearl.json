@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"pearl\"},CustomModelData:7131001}"
+              "tag": "{spec:{id:\"pearl\"},CustomModelData:7131002}"
             },
             {
               "function": "minecraft:set_name",

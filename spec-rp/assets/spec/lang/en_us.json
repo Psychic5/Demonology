@@ -90,5 +90,14 @@
 	"spec.ui.celestial": "%s Celestial Proficiency",
 	"spec.ui.celestial.+": "+%s Celestial Proficiency",
 	"spec.ui.celestial.-": "-%s Celestial Proficiency",
-	"spec.ui.spell.cant_cast": "You cannot pronounce the incantation!"
+	"spec.ui.spell.cant_cast": "You cannot pronounce the incantation!",
+	
+	"spec.advancement.spectrum.root": "Consequences",
+	"spec.advancement.spectrum.root.desc": "Retribution for your crimes, and reward for your virtues",
+	"spec.advancement.spectrum.yhara": "Croaked",
+	"spec.advancement.spectrum.yhara.desc": "Slay a Yharamayawho of the arid plains",
+	"spec.advancement.spectrum.embalming_fluid": "Rigor Mortis Begone!",
+	"spec.advancement.spectrum.embalming_fluid.desc": "Brew a Yharamayawho's Glossy Bile into an Embalming Fluid",
+	"spec.advancement.spectrum.cherub": "Bright Idea",
+	"spec.advancement.spectrum.cherub.desc": "Trade with a Cherub"
 }
