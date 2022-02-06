@@ -18,6 +18,11 @@
 	"spec.item.lingo_advanced": "Advanced Abyssal",
 	"spec.item.spectrometer": "Spectrometer",
 	"spec.item.golden_trumpet": "Golden Trumpet",
+	"spec.item.noxious_balm": "Noxious Balm",
+	"spec.item.piquant_balm": "Piquant Balm",
+	"spec.item.exotic_balm": "Exotic Balm",
+	"spec.item.discordant_balm": "Discordant Balm",
+	"spec.item.holy_balm": "Holy Balm",
 	
 	"spec.subtitle.item.spectrometer": "Spectrometer clicks",
 	"spec.subtitle.item.trumpet": "Trumpet doots",
@@ -86,7 +91,7 @@
 	"spec.death.thrash": "%s was thrashed by %s",
 	"spec.death.smited": "%s got the celestial middle finger from %s",
 	"spec.death.imp": "%s got a footfull of %s's pyromancy",
-	"spec.death.yhara_slam": "%s felt %s hit the ground too hard",
+	"spec.death.yhara_slam": "%s had their world shook by %s",
 	
 	"spec.ui.abyssal": "%s Abyssal Proficiency",
 	"spec.ui.abyssal.+": "+%s Abyssal Proficiency",
@@ -96,12 +101,21 @@
 	"spec.ui.celestial.-": "-%s Celestial Proficiency",
 	"spec.ui.spell.cant_cast": "You cannot pronounce the incantation!",
 	
+	"spec.ui.gives_effect": "%s %s (%s:%s)",
+	"spec.effect.scent.noxious": "Noxious Stench",
+	"spec.effect.scent.piquant": "Piquant Scent",
+	"spec.effect.scent.exotic": "Exotic Scent",
+	"spec.effect.scent.discordant": "Discordant Stench",
+	"spec.effect.scent.holy": "Holy Scent",
+	
 	"spec.advancement.spectrum.root": "Consequences",
 	"spec.advancement.spectrum.root.desc": "Retribution for your crimes, and reward for your virtues",
 	"spec.advancement.spectrum.yhara": "Croaked",
 	"spec.advancement.spectrum.yhara.desc": "Slay a Yharamayawho of the arid plains",
 	"spec.advancement.spectrum.embalming_fluid": "Rigor Mortis Begone!",
 	"spec.advancement.spectrum.embalming_fluid.desc": "Brew a Yharamayawho's Glossy Bile into an Embalming Fluid",
+	"spec.advancement.spectrum.balm": "Balms Away",
+	"spec.advancement.spectrum.balm.desc": "Produce and use a scented Balm using a Balm Vat",
 	"spec.advancement.spectrum.cherub": "Bright Idea",
 	"spec.advancement.spectrum.cherub.desc": "Trade with a Cherub"
 }
