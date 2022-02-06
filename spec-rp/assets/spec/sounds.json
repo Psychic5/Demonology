@@ -23,6 +23,18 @@
   "entity.cherub.fanfare": { "subtitle": "spec.subtitle.entity.cherub.fanfare", "sounds": [
 "spec:entity/cherub/fanfare" ]},
 
+  "entity.yhara.ambient": { "subtitle": "spec.subtitle.entity.yhara.ambient", "sounds": [
+"spec:entity/yhara/idle0", "spec:entity/yhara/idle1", "spec:entity/yhara/idle2", "spec:entity/yhara/idle3" ]},
+
+  "entity.yhara.hurt": { "subtitle": "spec.subtitle.entity.yhara.hurt", "sounds": [
+"spec:entity/yhara/hurt0", "spec:entity/yhara/hurt1", "spec:entity/yhara/hurt2" ]},
+
+  "entity.yhara.death": { "subtitle": "spec.subtitle.entity.yhara.death", "sounds": [
+"spec:entity/yhara/death" ]},
+
+  "entity.yhara.slam": { "subtitle": "spec.subtitle.entity.yhara.slam", "sounds": [
+"spec:entity/yhara/slam" ]},
+
   "item.spectrometer.use": { "subtitle": "spec.subtitle.item.spectrometer", "sounds": [
 "minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]},
 

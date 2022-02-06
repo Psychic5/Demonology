@@ -1,9 +1,12 @@
 data remove entity @s Offers.Recipes
 
-## Cherub is Buying
+## Celestial bargains!
+function spec:entity/cherub/processing/sell/celestial_scripture
+function spec:entity/cherub/processing/sell/golden_trumpet
+
+## Cherub wants
 function spec:entity/cherub/processing/buy/gold_ingot
 function spec:entity/cherub/processing/buy/brimscale
 
-## Cherub is Selling
-function spec:entity/cherub/processing/sell/golden_trumpet
-function spec:entity/cherub/processing/sell/diamond
+## Goodies
+function spec:entity/cherub/processing/sell/quartz

@@ -1,0 +1,2 @@
+## Mob Death Messages
+execute as @s[tag=spec.damage.yhara_slam] run tellraw @a {"translate":"spec.death.yhara_slam","with":[{"selector":"@s"},{"selector":"@e[sort=nearest,limit=1,tag=spec.entity.yhara]"}]}

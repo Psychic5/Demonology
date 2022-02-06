@@ -22,6 +22,8 @@
 	{ "predicate": { "custom_model_data": 7131015 }, "model": "spec:entity/cherub/animations/trumpet/9" },
 	{ "predicate": { "custom_model_data": 7131016 }, "model": "spec:entity/cherub/animations/trumpet/10" },
 	{ "predicate": { "custom_model_data": 7131017 }, "model": "spec:entity/cherub/animations/trumpet/11" },
-	{ "predicate": { "custom_model_data": 7131018 }, "model": "spec:entity/cherub/animations/trumpet/12" }
+	{ "predicate": { "custom_model_data": 7131018 }, "model": "spec:entity/cherub/animations/trumpet/12" },
+	{ "predicate": { "custom_model_data": 7131019 }, "model": "spec:entity/yhara/idle" },
+	{ "predicate": { "custom_model_data": 7131020 }, "model": "spec:entity/yhara/leap" }
   ]
 }

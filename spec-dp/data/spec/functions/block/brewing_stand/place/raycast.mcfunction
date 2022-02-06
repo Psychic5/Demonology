@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ minecraft:brewing_stand align xyz positioned ~0.5 ~0.5 ~0.5 unless entity @e[tag=spec.block.brewing_stand,distance=0..0.2] run function spec:block/brewing_stand/place/end
+execute if entity @s[distance=..7] unless block ~ ~ ~ minecraft:brewing_stand positioned ^ ^ ^0.025 run function spec:block/brewing_stand/place/raycast

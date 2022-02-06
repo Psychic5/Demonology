@@ -1,0 +1,27 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "block": {
+          "blocks": [
+            "minecraft:brewing_stand"
+          ],
+          "nbt": "{Items:[{Slot:0b,tag:{Potion:\"minecraft:awkward\"}}]}"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "block": {
+          "blocks": [
+            "minecraft:brewing_stand"
+          ],
+          "nbt": "{Items:[{Slot:0b,tag:{Potion:\"minecraft:water\"}}]}"
+        }
+      }
+    }
+  ]
+}
