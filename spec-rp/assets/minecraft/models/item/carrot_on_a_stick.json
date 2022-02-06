@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/carrot_on_a_stick"
               },
   "overrides": [
-	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:item/trumpet" }
+	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:item/golden_trumpet" },
+	{ "predicate": { "custom_model_data": 7131001 }, "model": "spec:item/abyssal_scripture" },
+	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:item/celestial_scripture" }
   ]
 }

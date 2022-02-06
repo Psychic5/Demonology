@@ -1,0 +1,1 @@
+title @s actionbar {"translate":"spec.ui.celestial","color":"#FFFA61","with":[{"score":{"name":"@s","objective":"spec.temp"}}]}

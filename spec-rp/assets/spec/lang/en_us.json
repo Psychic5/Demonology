@@ -1,5 +1,5 @@
 {
-	"spec.pack": "Spectrum",
+	"spec.pack": "Spiritual Spectrum",
 	
 	"spec.ui.config": "- CONFIG -",
 	"spec.ui.false": "[False]",
@@ -8,15 +8,18 @@
 	
 	"spec.item.brimscale": "Brimscale",
 	"spec.item.pearl": "Pearl",
+	"spec.item.abyssal_scripture": "Abyssal Scripture",
+	"spec.item.celestial_scripture": "Celestial Scripture",
 	"spec.item.chevon": "Raw Chevon",
 	"spec.item.cooked_chevon": "Cooked Chevon",
 	"spec.item.lingo_basics": "Abyssal for Dummies",
 	"spec.item.lingo_advanced": "Advanced Abyssal",
 	"spec.item.spectrometer": "Spectrometer",
-	"spec.item.trumpet": "Trumpet",
+	"spec.item.golden_trumpet": "Golden Trumpet",
 	
 	"spec.subtitle.item.spectrometer": "Spectrometer clicks",
 	"spec.subtitle.item.trumpet": "Trumpet doots",
+	"spec.subtitle.item.book": "Player skims book",
 	
 	"spec.entity.portal": "Vortex",
 	"spec.entity.imp": "Imp",
@@ -73,8 +76,11 @@
 	"spec.death.imp": "%s got a footfull of %s's pyromancy",
 	"spec.death.stalker": "%s remained in pitch black and was eaten by %s",
 	
-	"spec.ui.lingo": "%s% Abyssal Proficiency",
-	"spec.ui.lingo.+": "+%s% Abyssal Proficiency",
-	"spec.ui.lingo.-": "-%s% Abyssal Proficiency",
+	"spec.ui.abyssal": "%s Abyssal Proficiency",
+	"spec.ui.abyssal.+": "+%s Abyssal Proficiency",
+	"spec.ui.abyssal.-": "-%s Abyssal Proficiency",
+	"spec.ui.celestial": "%s Celestial Proficiency",
+	"spec.ui.celestial.+": "+%s Celestial Proficiency",
+	"spec.ui.celestial.-": "-%s Celestial Proficiency",
 	"spec.ui.spell.cant_cast": "You cannot pronounce the incantation!"
 }

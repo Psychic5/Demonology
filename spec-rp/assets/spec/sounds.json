@@ -27,5 +27,8 @@
 "minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]},
 
   "item.trumpet.use": { "subtitle": "spec.subtitle.item.trumpet", "sounds": [
-"spec:item/doot" ]}
+"spec:item/doot" ]},
+
+  "item.book": { "subtitle": "spec.subtitle.item.book", "sounds": [
+"spec:item/book" ]}
 }

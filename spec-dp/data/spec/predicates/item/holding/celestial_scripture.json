@@ -5,7 +5,7 @@
     "equipment": {
       "mainhand": {
         "count": 1,
-        "nbt": "{spec:{id:\"trumpet\"}}"
+        "nbt": "{spec:{id:\"celestial_scripture\"}}"
       }
     }
   }

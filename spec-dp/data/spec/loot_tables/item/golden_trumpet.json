@@ -14,13 +14,13 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"trumpet\"},CustomModelData:7131000}"
+              "tag": "{spec:{id:\"golden_trumpet\"},CustomModelData:7131000}"
             },
             {
               "function": "minecraft:set_name",
               "name": [
                 {
-                  "translate": "spec.item.trumpet",
+                  "translate": "spec.item.golden_trumpet",
                   "color": "white",
                   "italic": "false"
                 }
