@@ -1,0 +1,1 @@
+execute anchored eyes run function spec:block/balm_vat/place/raycast

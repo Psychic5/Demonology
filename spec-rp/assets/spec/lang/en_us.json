@@ -23,6 +23,10 @@
 	"spec.subtitle.item.trumpet": "Trumpet doots",
 	"spec.subtitle.item.book": "Player skims book",
 	
+	"spec.block.balm_vat": "Balm Vat",
+	
+	"spec.subtitle.block.balm_vat": "Balm Vat churns",
+	
 	"spec.entity.portal": "Vortex",
 	"spec.entity.imp": "Imp",
 	"spec.entity.yhara": "Yharamayawho",
@@ -48,7 +52,7 @@
 	"spec.subtitle.entity.cherub.death": "Cherub dies",
 	"spec.subtitle.entity.cherub.smite": "Cherub roars",
 	"spec.subtitle.entity.cherub.trade": "Cherub flutters",
-	"spec.subtitle.entity.cherub.fanfare": "Cherub blares trumpet",
+	"spec.subtitle.entity.cherub.fanfare": "Cherub blares Trumpet",
 	"spec.subtitle.entity.demonologer.ambient": "Demonologer mutters",
 	"spec.subtitle.entity.demonologer.hurt": "Demonologer hurts",
 	"spec.subtitle.entity.demonologer.death": "Demonologer dies",

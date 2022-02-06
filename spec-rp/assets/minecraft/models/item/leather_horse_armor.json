@@ -24,6 +24,7 @@
 	{ "predicate": { "custom_model_data": 7131017 }, "model": "spec:entity/cherub/animations/trumpet/11" },
 	{ "predicate": { "custom_model_data": 7131018 }, "model": "spec:entity/cherub/animations/trumpet/12" },
 	{ "predicate": { "custom_model_data": 7131019 }, "model": "spec:entity/yhara/idle" },
-	{ "predicate": { "custom_model_data": 7131020 }, "model": "spec:entity/yhara/leap" }
+	{ "predicate": { "custom_model_data": 7131020 }, "model": "spec:entity/yhara/leap" },
+	{ "predicate": { "custom_model_data": 7131021 }, "model": "spec:block/balm_vat" }
   ]
 }

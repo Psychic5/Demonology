@@ -10,7 +10,7 @@
     "description": {
       "translate": "spec.advancement.spectrum.root.desc"
     },
-    "background": "minecraft:textures/block/snow.png",
+    "background": "minecraft:textures/block/deepslate.png",
     "frame": "task",
     "show_toast": false,
     "announce_to_chat": false,

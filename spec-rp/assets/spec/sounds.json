@@ -42,5 +42,8 @@
 "spec:item/doot" ]},
 
   "item.book": { "subtitle": "spec.subtitle.item.book", "sounds": [
-"spec:item/book" ]}
+"spec:item/book" ]},
+
+  "block.balm_vat": { "subtitle": "spec.subtitle.block.balm_vat", "sounds": [
+"spec:block/balm_vat" ]}
 }

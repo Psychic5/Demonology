@@ -1,0 +1,17 @@
+{
+  "parent": "spec:technical/entity/player/recipes/root",
+  "rewards": {
+    "function": "spec:entity/player/recipe",
+    "loot": [
+      "spec:item/balm_vat"
+    ]
+  },
+  "criteria": {
+    "craft": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spec:balm_vat"
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+execute as @s[tag=spec.interact.embalming_fluid] run playsound minecraft:item.bottle.empty player @a
+execute as @s[tag=spec.interact.embalming_fluid] if predicate spec:entity/player/survival run item replace entity @s weapon.mainhand with minecraft:glass_bottle

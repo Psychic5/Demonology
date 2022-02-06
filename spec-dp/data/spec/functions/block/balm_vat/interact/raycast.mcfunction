@@ -1,0 +1,2 @@
+execute if entity @e[tag=spec.block.balm_vat,distance=..1] run function spec:block/balm_vat/interact/end
+execute if entity @s[distance=..7] unless entity @e[tag=spec.block.balm_vat,distance=..1] positioned ^ ^ ^0.25 run function spec:block/balm_vat/interact/raycast
