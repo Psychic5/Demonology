@@ -14,13 +14,13 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"noxious_balm\"},CustomModelData:7131001,CustomPotionColor:15924223,Potion:\"minecraft:mundane\",HideFlags:32}"
+              "tag": "{spec:{id:\"pestilent_balm\"},CustomModelData:7131001,CustomPotionColor:15924223,Potion:\"minecraft:mundane\",HideFlags:32}"
             },
             {
               "function": "minecraft:set_name",
               "name": [
                 {
-                  "translate": "spec.item.noxious_balm",
+                  "translate": "spec.item.pestilent_balm",
                   "color": "white",
                   "italic": "false"
                 }
@@ -33,7 +33,7 @@
                   "translate": "spec.ui.gives_effect",
                   "color": "yellow",
                   "italic": "false",
-                  "with": [{"translate":"spec.effect.scent.noxious"},{"text":"I"},{"text":"10"},{"text":"00"}]
+                  "with": [{"translate":"spec.effect.scent.pestilent"},{"text":"I"},{"text":"10"},{"text":"00"}]
                 }
               ]
             },

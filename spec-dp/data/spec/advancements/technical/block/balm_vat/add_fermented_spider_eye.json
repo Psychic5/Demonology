@@ -10,7 +10,7 @@
         },
         "entity": {
           "type": "minecraft:wandering_trader",
-          "nbt": "{Tags:[\"spec.tag.balm_vat.embalming_fluid\"]}"
+          "nbt": "{Tags:[\"spec.tag.balm_vat.bones\"]}"
         }
       }
     }

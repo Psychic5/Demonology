@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "spec:item/noxious_balm"
+    "layer0": "spec:item/discordant_balm"
   }
 }

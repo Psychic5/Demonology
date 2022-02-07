@@ -23,6 +23,18 @@
   "entity.cherub.fanfare": { "subtitle": "spec.subtitle.entity.cherub.fanfare", "sounds": [
 "spec:entity/cherub/fanfare" ]},
 
+  "entity.virtue.ambient": { "subtitle": "spec.subtitle.entity.virtue.ambient", "sounds": [
+"spec:entity/virtue/idle0", "spec:entity/virtue/idle1", "spec:entity/virtue/idle2", "spec:entity/virtue/idle3" ]},
+
+  "entity.virtue.hurt": { "subtitle": "spec.subtitle.entity.virtue.hurt", "sounds": [
+"spec:entity/virtue/hurt0", "spec:entity/virtue/hurt1", "spec:entity/virtue/hurt2" ]},
+
+  "entity.virtue.death": { "subtitle": "spec.subtitle.entity.virtue.death", "sounds": [
+"spec:entity/virtue/death" ]},
+
+  "entity.virtue.judge": { "subtitle": "spec.subtitle.entity.virtue.judge", "sounds": [
+"spec:entity/virtue/judge" ]},
+
   "entity.yhara.ambient": { "subtitle": "spec.subtitle.entity.yhara.ambient", "sounds": [
 "spec:entity/yhara/idle0", "spec:entity/yhara/idle1", "spec:entity/yhara/idle2", "spec:entity/yhara/idle3" ]},
 
@@ -44,6 +56,9 @@
   "item.book": { "subtitle": "spec.subtitle.item.book", "sounds": [
 "spec:item/book" ]},
 
-  "block.balm_vat": { "subtitle": "spec.subtitle.block.balm_vat", "sounds": [
-"spec:block/balm_vat" ]}
+  "block.balm_vat.mix": { "subtitle": "spec.subtitle.block.balm_vat.mix", "sounds": [
+"spec:block/balm_vat/mix" ]},
+
+  "block.balm_vat.bone": { "subtitle": "spec.subtitle.block.balm_vat.bone", "sounds": [
+"spec:block/balm_vat/bone0", "spec:block/balm_vat/bone1" ]}
 }

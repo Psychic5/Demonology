@@ -9,28 +9,29 @@
 	"spec.item.chevon": "Raw Chevon",
 	"spec.item.cooked_chevon": "Cooked Chevon",
 	"spec.item.brimscale": "Brimscale",
+	"spec.item.bile": "Glossy Bile",
+	"spec.item.flayed_cells": "Flayed Psi Cells",
 	"spec.item.pearl": "Pearl",
+	
+	"spec.item.embalming_fluid": "Embalming Fluid",
+	"spec.item.pestilent_balm": "Pestilent Balm",
+	"spec.item.piquant_balm": "Piquant Balm",
+	"spec.item.discordant_balm": "Discordant Balm",
+	
 	"spec.item.abyssal_scripture": "Abyssal Scripture",
 	"spec.item.celestial_scripture": "Celestial Scripture",
-	"spec.item.bile": "Glossy Bile",
-	"spec.item.embalming_fluid": "Embalming Fluid",
-	"spec.item.lingo_basics": "Abyssal for Dummies",
-	"spec.item.lingo_advanced": "Advanced Abyssal",
+	
 	"spec.item.spectrometer": "Spectrometer",
 	"spec.item.golden_trumpet": "Golden Trumpet",
-	"spec.item.noxious_balm": "Noxious Balm",
-	"spec.item.piquant_balm": "Piquant Balm",
-	"spec.item.exotic_balm": "Exotic Balm",
-	"spec.item.discordant_balm": "Discordant Balm",
-	"spec.item.holy_balm": "Holy Balm",
 	
+	"spec.subtitle.item.book": "Player skims book",
 	"spec.subtitle.item.spectrometer": "Spectrometer clicks",
 	"spec.subtitle.item.trumpet": "Trumpet doots",
-	"spec.subtitle.item.book": "Player skims book",
 	
 	"spec.block.balm_vat": "Balm Vat",
 	
-	"spec.subtitle.block.balm_vat": "Balm Vat churns",
+	"spec.subtitle.block.balm_vat.mix": "Balm Vat churns",
+	"spec.subtitle.block.balm_vat.bone": "Balm Vat filled",
 	
 	"spec.entity.portal": "Vortex",
 	"spec.entity.imp": "Imp",
@@ -71,7 +72,7 @@
 	"spec.subtitle.entity.stalker.track": "Stalker glares",
 	"spec.subtitle.entity.virtue.spawn": "Virtue materializes",
 	"spec.subtitle.entity.virtue.despawn": "Virtue poofs",
-	"spec.subtitle.entity.virtue.ambient": "Virtue sings",
+	"spec.subtitle.entity.virtue.ambient": "Virtue clatters",
 	"spec.subtitle.entity.virtue.hurt": "Virtue hurts",
 	"spec.subtitle.entity.virtue.death": "Virtue dies",
 	"spec.subtitle.entity.virtue.smite": "Virtue roars",
@@ -102,11 +103,9 @@
 	"spec.ui.spell.cant_cast": "You cannot pronounce the incantation!",
 	
 	"spec.ui.gives_effect": "%s %s (%s:%s)",
-	"spec.effect.scent.noxious": "Noxious Stench",
+	"spec.effect.scent.pestilent": "Pestilent Stench",
 	"spec.effect.scent.piquant": "Piquant Scent",
-	"spec.effect.scent.exotic": "Exotic Scent",
-	"spec.effect.scent.discordant": "Discordant Stench",
-	"spec.effect.scent.holy": "Holy Scent",
+	"spec.effect.scent.discordant": "Discordant Scent",
 	
 	"spec.advancement.spectrum.root": "Consequences",
 	"spec.advancement.spectrum.root.desc": "Retribution for your crimes, and reward for your virtues",
@@ -117,5 +116,7 @@
 	"spec.advancement.spectrum.balm": "Balms Away",
 	"spec.advancement.spectrum.balm.desc": "Produce and use a scented Balm using a Balm Vat",
 	"spec.advancement.spectrum.cherub": "Bright Idea",
-	"spec.advancement.spectrum.cherub.desc": "Trade with a Cherub"
+	"spec.advancement.spectrum.cherub.desc": "Trade with a Cherub",
+	"spec.advancement.spectrum.virtue": "Repentance",
+	"spec.advancement.spectrum.virtue.desc": "Have a Virtue judge your Karma"
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "spec:item/exotic_balm"
+    "layer0": "spec:item/pestilent_balm"
   }
 }
