@@ -1,4 +1,4 @@
-{
+# {
   "criteria": {
     "furnace": {
       "trigger": "minecraft:placed_block",
