@@ -1,4 +1,4 @@
-execute as @s[tag=!spec.tag.corkscrew.primed] if entity @a[predicate=spec:entity/player/survival,distance=..4] run function spec:entity/corkscrew/fuse/prime
+execute as @s[tag=!spec.tag.corkscrew.primed] if entity @a[predicate=spec:entity/player/survival,distance=..6] run function spec:entity/corkscrew/fuse/prime
 
 execute as @s[tag=spec.tag.corkscrew.primed] run scoreboard players add @s corkscrew.dummy 1
 

@@ -2,6 +2,7 @@
   "replace": true,
   "values": [
     "minecraft:wandering_trader",
-    "minecraft:zombie"
+    "minecraft:zombie",
+    "minecraft:armor_stand"
   ]
 }

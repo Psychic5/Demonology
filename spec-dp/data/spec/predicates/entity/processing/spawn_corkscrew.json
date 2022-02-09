@@ -1,0 +1,24 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:creeper"
+    }
+  },
+  {
+    "condition": "minecraft:random_chance",
+    "chance": 0.15
+  },
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "position": {
+        "y": {
+          "min": -64,
+          "max": 0
+        }
+      }
+    }
+  }
+]

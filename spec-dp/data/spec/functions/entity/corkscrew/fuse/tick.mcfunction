@@ -1,5 +1,5 @@
-execute if entity @a[distance=0..6,predicate=spec:entity/player/survival] unless score @s spec.dummy matches 30.. run scoreboard players add @s spec.dummy 1
-execute unless entity @a[distance=0..6,predicate=spec:entity/player/survival] unless score @s spec.dummy matches 30.. run scoreboard players remove @s spec.dummy 1
+execute if entity @a[distance=0..8,predicate=spec:entity/player/survival] unless score @s spec.dummy matches 30.. run scoreboard players add @s spec.dummy 1
+execute unless entity @a[distance=0..8,predicate=spec:entity/player/survival] unless score @s spec.dummy matches 30.. run scoreboard players remove @s spec.dummy 1
 execute if score @s spec.dummy matches 30.. run scoreboard players add @s spec.dummy 1
 
 execute if score @s spec.dummy matches ..0 run function spec:entity/corkscrew/fuse/cancel
@@ -37,5 +37,10 @@ execute if score @s spec.dummy matches 53 run data modify entity @s ArmorItems[3
 execute if score @s spec.dummy matches 54 run data modify entity @s ArmorItems[3].tag.spec.Display.Idle set value 7131027
 
 execute if score @s spec.dummy matches 41 run playsound spec:entity.corkscrew.defuse hostile @a ~ ~ ~ 1 1.5
+
+execute positioned ~ ~2 ~ if score @s spec.dummy matches 41 run function spec:entity/corkscrew/tear/spawn
+execute positioned ~ ~2 ~ if score @s spec.dummy matches 45 run function spec:entity/corkscrew/tear/spawn
+execute positioned ~ ~1.75 ~ if score @s spec.dummy matches 49 run function spec:entity/corkscrew/tear/spawn
+execute positioned ~ ~1.5 ~ if score @s spec.dummy matches 54 run function spec:entity/corkscrew/tear/spawn
 
 execute if score @s spec.dummy matches 55.. run function spec:entity/corkscrew/fuse/cancel

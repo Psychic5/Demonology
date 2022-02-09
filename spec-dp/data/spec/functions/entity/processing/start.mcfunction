@@ -6,4 +6,6 @@ execute if entity @a[scores={spec.karma=..-100}] if predicate spec:entity/proces
 
 execute if predicate spec:entity/processing/spawn_yhara run function spec:entity/processing/spawn/yhara
 
+execute if predicate spec:entity/processing/spawn_corkscrew run function spec:entity/processing/spawn/corkscrew
+
 tag @s add spec.processed
