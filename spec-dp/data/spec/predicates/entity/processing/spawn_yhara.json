@@ -13,5 +13,16 @@
   {
     "condition": "minecraft:reference",
     "name": "spec:location/desert"
+  },
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "position": {
+        "y": {
+          "min": 60,
+          "max": 512
+        }
+      }
+    }
   }
 ]

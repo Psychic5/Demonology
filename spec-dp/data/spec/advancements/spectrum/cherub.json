@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:structure_block",
+      "item": "minecraft:carrot_on_a_stick",
       "nbt": "{CustomModelData:7131002}"
     },
     "title": {

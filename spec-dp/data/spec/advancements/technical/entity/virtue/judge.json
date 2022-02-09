@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "nbt": "{spec:{id:\"pearl\"}}"
+        },
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"spec.entity.virtue\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "spec:entity/virtue/interact/start"
+  }
+}

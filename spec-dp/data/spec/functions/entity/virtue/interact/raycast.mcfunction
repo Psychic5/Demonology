@@ -1,0 +1,2 @@
+execute if entity @e[tag=spec.entity.virtue,distance=..2] run function spec:entity/virtue/interact/end
+execute if entity @s[distance=..7] unless entity @e[tag=spec.entity.virtue,distance=..2] positioned ^ ^ ^0.25 run function spec:entity/virtue/interact/raycast

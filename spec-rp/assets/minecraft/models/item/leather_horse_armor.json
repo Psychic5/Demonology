@@ -28,6 +28,24 @@
 	{ "predicate": { "custom_model_data": 7131021 }, "model": "spec:block/balm_vat" },
 	{ "predicate": { "custom_model_data": 7131022 }, "model": "spec:block/balm_vat_closed" },
 	{ "predicate": { "custom_model_data": 7131023 }, "model": "spec:entity/virtue/idle" },
-	{ "predicate": { "custom_model_data": 7131024 }, "model": "spec:entity/virtue/moving" }
+	{ "predicate": { "custom_model_data": 7131024 }, "model": "spec:entity/virtue/moving" },
+	{ "predicate": { "custom_model_data": 7131025 }, "model": "spec:entity/corkscrew/idle" },
+	{ "predicate": { "custom_model_data": 7131026 }, "model": "spec:entity/corkscrew/moving" },
+	{ "predicate": { "custom_model_data": 7131027 }, "model": "spec:entity/corkscrew/primed/1" },
+	{ "predicate": { "custom_model_data": 7131028 }, "model": "spec:entity/corkscrew/primed/2" },
+	{ "predicate": { "custom_model_data": 7131029 }, "model": "spec:entity/corkscrew/primed/3" },
+	{ "predicate": { "custom_model_data": 7131030 }, "model": "spec:entity/corkscrew/primed/4" },
+	{ "predicate": { "custom_model_data": 7131031 }, "model": "spec:entity/corkscrew/primed/5" },
+	{ "predicate": { "custom_model_data": 7131032 }, "model": "spec:entity/corkscrew/primed/6" },
+	{ "predicate": { "custom_model_data": 7131033 }, "model": "spec:entity/corkscrew/primed/7" },
+	{ "predicate": { "custom_model_data": 7131034 }, "model": "spec:entity/corkscrew/primed/8" },
+	{ "predicate": { "custom_model_data": 7131035 }, "model": "spec:entity/corkscrew/primed/9" },
+	{ "predicate": { "custom_model_data": 7131036 }, "model": "spec:entity/corkscrew/primed/10" },
+	{ "predicate": { "custom_model_data": 7131037 }, "model": "spec:entity/corkscrew/primed/11" },
+	{ "predicate": { "custom_model_data": 7131038 }, "model": "spec:entity/corkscrew/primed/12" },
+	{ "predicate": { "custom_model_data": 7131039 }, "model": "spec:entity/corkscrew/primed/13" },
+	{ "predicate": { "custom_model_data": 7131040 }, "model": "spec:entity/corkscrew/primed/14" },
+	{ "predicate": { "custom_model_data": 7131041 }, "model": "spec:entity/corkscrew/primed/15" },
+	{ "predicate": { "custom_model_data": 7131042 }, "model": "spec:entity/corkscrew/primed/16" }
   ]
 }

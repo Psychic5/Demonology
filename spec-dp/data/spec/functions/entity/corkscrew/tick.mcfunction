@@ -1,0 +1,1 @@
+execute as @s[tag=spec.tag.corkscrew.primed] run function spec:entity/corkscrew/fuse/tick

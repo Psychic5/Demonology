@@ -1,2 +1,2 @@
-execute if block ~ ~-1 ~ #spec:non_solid if block ~ ~-2 ~ #spec:non_solid unless data entity @s {OnGround:1b} run tag @s add spec.tag.leapt
+execute if block ~ ~-1 ~ #spec:non_solid if block ~ ~-2 ~ #spec:non_solid if block ~ ~-2.5 ~ #spec:non_solid unless data entity @s {OnGround:1b} if entity @a[distance=0..12] run tag @s add spec.tag.leapt
 execute if data entity @s[tag=spec.tag.leapt] {OnGround:1b} run function spec:entity/yhara/slam

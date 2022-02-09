@@ -6,5 +6,6 @@ execute if predicate spec:entity/sounds/hurt run function spec:entity/technical/
 
 ## Mobs
 execute as @s[tag=spec.entity.imp] run function spec:entity/imp/tick
-execute as @s[tag=spec.entity.cherub] run function spec:entity/cherub/tick
 execute as @s[tag=spec.entity.yhara] run function spec:entity/yhara/tick
+execute as @s[tag=spec.entity.corkscrew] run function spec:entity/corkscrew/tick
+execute as @s[tag=spec.entity.cherub] run function spec:entity/cherub/tick

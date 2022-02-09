@@ -8,6 +8,12 @@
   "entity.imp.death": { "subtitle": "spec.subtitle.entity.imp.death", "sounds": [
 "spec:entity/imp/death0", "spec:entity/imp/death1", "spec:entity/imp/death2" ]},
 
+  "entity.imp.prepare_cast": { "subtitle": "spec.subtitle.entity.imp.prepare_cast", "sounds": [
+"spec:entity/imp/prepare_cast0", "spec:entity/imp/prepare_cast1" ]},
+
+  "entity.imp.cast": { "subtitle": "spec.subtitle.entity.imp.cast", "sounds": [
+"spec:entity/imp/cast" ]},
+
   "entity.cherub.spawn": { "subtitle": "spec.subtitle.entity.cherub.spawn", "sounds": [
 "spec:entity/cherub/spawn" ]},
 
@@ -22,6 +28,9 @@
 
   "entity.cherub.fanfare": { "subtitle": "spec.subtitle.entity.cherub.fanfare", "sounds": [
 "spec:entity/cherub/fanfare" ]},
+
+  "entity.cherub.smite": { "subtitle": "spec.subtitle.entity.angel_smite", "sounds": [
+"spec:entity/cherub/smite" ]},
 
   "entity.virtue.ambient": { "subtitle": "spec.subtitle.entity.virtue.ambient", "sounds": [
 "spec:entity/virtue/idle0", "spec:entity/virtue/idle1", "spec:entity/virtue/idle2", "spec:entity/virtue/idle3" ]},
@@ -46,6 +55,24 @@
 
   "entity.yhara.slam": { "subtitle": "spec.subtitle.entity.yhara.slam", "sounds": [
 "spec:entity/yhara/slam" ]},
+
+  "entity.corkscrew.ambient": { "subtitle": "spec.subtitle.entity.corkscrew.ambient", "sounds": [
+"spec:entity/corkscrew/idle0", "spec:entity/corkscrew/idle1", "spec:entity/corkscrew/idle2" ]},
+
+  "entity.corkscrew.hurt": { "subtitle": "spec.subtitle.entity.corkscrew.hurt", "sounds": [
+"spec:entity/corkscrew/hurt0", "spec:entity/corkscrew/hurt1", "spec:entity/corkscrew/hurt2" ]},
+
+  "entity.corkscrew.death": { "subtitle": "spec.subtitle.entity.corkscrew.death", "sounds": [
+"spec:entity/corkscrew/death" ]},
+
+  "entity.corkscrew.fuse": { "subtitle": "spec.subtitle.entity.corkscrew.fuse", "sounds": [
+"spec:entity/corkscrew/fuse" ]},
+
+  "entity.corkscrew.defuse": { "subtitle": "spec.subtitle.entity.corkscrew.defuse", "sounds": [
+"spec:entity/corkscrew/fuse" ]},
+
+  "entity.corkscrew.acid": { "subtitle": "spec.subtitle.entity.corkscrew.acid", "sounds": [
+"spec:entity/corkscrew/acid0", "spec:entity/corkscrew/acid1", "spec:entity/corkscrew/acid2", "spec:entity/corkscrew/acid3" ]},
 
   "item.spectrometer.use": { "subtitle": "spec.subtitle.item.spectrometer", "sounds": [
 "minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]},

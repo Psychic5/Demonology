@@ -12,6 +12,8 @@
 	"spec.item.bile": "Glossy Bile",
 	"spec.item.flayed_cells": "Flayed Psi Cells",
 	"spec.item.pearl": "Pearl",
+	"spec.item.corkscrew_chisel": "Corkscrew Chisel",
+	"spec.item.corkscrew_shiv": "Corkscrew Shiv",
 	
 	"spec.item.embalming_fluid": "Embalming Fluid",
 	"spec.item.pestilent_balm": "Pestilent Balm",
@@ -40,6 +42,7 @@
 	"spec.entity.demonologer": "Demonologer",
 	"spec.entity.cherub": "Cherub",
 	"spec.entity.virtue": "Virtue",
+	"spec.entity.corkscrew": "Corkscrew",
 	
 	"spec.subtitle.entity.vortex.spawn": "Vortex materializes",
 	"spec.subtitle.entity.vortex.despawn": "Vortex fades",
@@ -59,6 +62,7 @@
 	"spec.subtitle.entity.cherub.smite": "Cherub roars",
 	"spec.subtitle.entity.cherub.trade": "Cherub flutters",
 	"spec.subtitle.entity.cherub.fanfare": "Cherub blares Trumpet",
+	"spec.subtitle.entity.angel_smite": "Angel roars",
 	"spec.subtitle.entity.demonologer.ambient": "Demonologer mutters",
 	"spec.subtitle.entity.demonologer.hurt": "Demonologer hurts",
 	"spec.subtitle.entity.demonologer.death": "Demonologer dies",
@@ -81,6 +85,12 @@
 	"spec.subtitle.entity.yhara.hurt": "Yharamayawho hurts",
 	"spec.subtitle.entity.yhara.death": "Yharamayawho dies",
 	"spec.subtitle.entity.yhara.slam": "Yharamayawho stomps",
+	"spec.subtitle.entity.corkscrew.ambient": "Corkscrew creaks",
+	"spec.subtitle.entity.corkscrew.hurt": "Corkscrew hurts",
+	"spec.subtitle.entity.corkscrew.death": "Corkscrew dies",
+	"spec.subtitle.entity.corkscrew.fuse": "Corkscrew winds up",
+	"spec.subtitle.entity.corkscrew.defuse": "Corkscrew winds down",
+	"spec.subtitle.entity.corkscrew.acid": "Acid sizzles",
 	
 	"spec.dialog.virtue.neutral": "<%s> Hmm, your soul is in perfect balance. We have not to advise",
 	"spec.dialog.virtue.dark": "<%s> Your soul opposes the tradition of our people. Beware.",
@@ -90,9 +100,10 @@
 	
 	"spec.death.pummel": "%s was pummeled by %s",
 	"spec.death.thrash": "%s was thrashed by %s",
-	"spec.death.smited": "%s got the celestial middle finger from %s",
-	"spec.death.imp": "%s got a footfull of %s's pyromancy",
+	"spec.death.smited": "%s got the cosmic middle finger from %s",
+	"spec.death.imp": "%s was fried by %s",
 	"spec.death.yhara_slam": "%s had their world shook by %s",
+	"spec.death.corkscrew": "%s had their face melted off by %s",
 	
 	"spec.ui.abyssal": "%s Abyssal Proficiency",
 	"spec.ui.abyssal.+": "+%s Abyssal Proficiency",
@@ -103,6 +114,8 @@
 	"spec.ui.spell.cant_cast": "You cannot pronounce the incantation!",
 	
 	"spec.ui.gives_effect": "%s %s (%s:%s)",
+	"spec.effect.agony": "Agony",
+	"spec.effect.corrosion": "Corrosion",
 	"spec.effect.scent.pestilent": "Pestilent Stench",
 	"spec.effect.scent.piquant": "Piquant Scent",
 	"spec.effect.scent.discordant": "Discordant Scent",
@@ -118,5 +131,7 @@
 	"spec.advancement.spectrum.cherub": "Bright Idea",
 	"spec.advancement.spectrum.cherub.desc": "Trade with a Cherub",
 	"spec.advancement.spectrum.virtue": "Repentance",
-	"spec.advancement.spectrum.virtue.desc": "Have a Virtue judge your Karma"
+	"spec.advancement.spectrum.virtue.desc": "Have a Virtue judge your Karma",
+	"spec.advancement.spectrum.gray": "Dept in Souls",
+	"spec.advancement.spectrum.gray.desc": "Meet Gray"
 }

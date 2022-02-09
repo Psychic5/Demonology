@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block",
+      "nbt": "{CustomModelData:7131002}"
+    },
+    "title": {
+      "translate": "spec.advancement.spectrum.virtue"
+    },
+    "description": {
+      "translate": "spec.advancement.spectrum.virtue.desc"
+    }
+  },
+  "parent": "spec:spectrum/cherub",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "nbt": "{spec:{id:\"pearl\"}}"
+        },
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"spec.entity.virtue\"]}"
+        }
+      }
+    }
+  }
+}

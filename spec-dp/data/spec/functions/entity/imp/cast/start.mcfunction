@@ -1,0 +1,1 @@
+execute anchored eyes facing entity @p feet run function spec:entity/imp/cast/raycast
