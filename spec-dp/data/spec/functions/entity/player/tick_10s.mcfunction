@@ -1,1 +1,1 @@
-execute if predicate spec:entity/cherub/spawn run function spec:entity/cherub/spawn/start
+execute unless score #spec.cherub_spawn_cooldown spec.dummy matches 1.. if predicate spec:entity/cherub/spawn run function spec:entity/cherub/spawn/start

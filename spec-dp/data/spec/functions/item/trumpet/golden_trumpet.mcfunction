@@ -19,4 +19,4 @@ execute if score @s spec.temp matches -70..-61 run playsound spec:item.trumpet.u
 execute if score @s spec.temp matches -80..-71 run playsound spec:item.trumpet.use player @a ~ ~ ~ 1.5 1.8
 execute if score @s spec.temp matches -90..-81 run playsound spec:item.trumpet.use player @a ~ ~ ~ 1.5 1.9
 
-execute if score @s spec.karma matches 50.. if predicate spec:random/25_percent run function spec:entity/cherub/spawn/start
+execute if score @s spec.karma matches 50.. unless score #spec.cherub_spawn_cooldown spec.dummy matches 1.. if predicate spec:random/25_percent run function spec:entity/cherub/spawn/start
