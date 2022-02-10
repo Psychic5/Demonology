@@ -8,6 +8,7 @@
 	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:item/embalming_fluid" },
 	{ "predicate": { "custom_model_data": 7131001 }, "model": "spec:item/pestilent_balm" },
 	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:item/piquant_balm" },
-	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:item/discordant_balm" }
+	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:item/discordant_balm" },
+	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:item/ale" }
   ]
 }

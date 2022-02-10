@@ -3,6 +3,8 @@
   "overrides": [
 	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:icon" },
 	{ "predicate": { "custom_model_data": 7131001 }, "model": "spec:item/brimscale" },
-	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:item/pearl" }
+	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:item/pearl" },
+	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:item/alloy_spring" },
+	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:item/onyx_ring" }
   ]
 }

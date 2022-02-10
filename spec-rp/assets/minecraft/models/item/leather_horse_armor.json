@@ -46,6 +46,8 @@
 	{ "predicate": { "custom_model_data": 7131039 }, "model": "spec:entity/corkscrew/primed/13" },
 	{ "predicate": { "custom_model_data": 7131040 }, "model": "spec:entity/corkscrew/primed/14" },
 	{ "predicate": { "custom_model_data": 7131041 }, "model": "spec:entity/corkscrew/primed/15" },
-	{ "predicate": { "custom_model_data": 7131042 }, "model": "spec:entity/corkscrew/primed/16" }
+	{ "predicate": { "custom_model_data": 7131042 }, "model": "spec:entity/corkscrew/primed/16" },
+	{ "predicate": { "custom_model_data": 7131043 }, "model": "spec:entity/gray/idle" },
+	{ "predicate": { "custom_model_data": 7131044 }, "model": "spec:entity/gray/moving" }
   ]
 }

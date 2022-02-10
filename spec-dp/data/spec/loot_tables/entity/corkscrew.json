@@ -4,9 +4,16 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:iron_nugget",
+          "type": "minecraft:loot_table",
+          "name": "spec:item/alloy_spring",
           "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
             {
               "function": "minecraft:looting_enchant",
               "count": {
