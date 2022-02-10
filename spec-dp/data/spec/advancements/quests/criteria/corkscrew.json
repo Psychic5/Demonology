@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:copper_ingot"
+    },
+    "title": "Corkscrew Criteria",
+    "description": "",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "spec:quests/assigned/corkscrew",
+  "criteria": {
+    "quest": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "player": {
+            "advancements": {
+              "spec:quests/assigned/corkscrew": true
+            }
+          }
+        },
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"spec.entity.corkscrew\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "spec:entity/player/quests/complete/corkscrew"
+  }
+}

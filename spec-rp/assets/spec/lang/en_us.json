@@ -41,7 +41,7 @@
 	"spec.entity.portal": "Vortex",
 	"spec.entity.imp": "Imp",
 	"spec.entity.yhara": "Yharamayawho",
-	"spec.entity.stalkerx": "Stalker",
+	"spec.entity.stalker": "Stalker",
 	"spec.entity.cherub": "Cherub",
 	"spec.entity.virtue": "Virtue",
 	"spec.entity.corkscrew": "Corkscrew",
@@ -139,5 +139,16 @@
 	"spec.advancement.spectrum.virtue": "Repentance",
 	"spec.advancement.spectrum.virtue.desc": "Have a Virtue judge your Karma",
 	"spec.advancement.spectrum.gray": "Dept in Souls",
-	"spec.advancement.spectrum.gray.desc": "Meet Gray"
+	"spec.advancement.spectrum.gray.desc": "Meet Gray",
+	
+	"spec.ui.quest_start": "New quest acquired!",
+	"spec.ui.quest_end": "Quest complete!",
+	"spec.quest.corkscrew": "<A Pristine Steel>",
+	"spec.quest.corkscrew.flavor": "About - Gray requires the powerful alloy that Corkscrews are made of. It needs to be very pristine, using harsh weapons may scratch it!",
+	"spec.quest.corkscrew.desc": "Goal - Track down and kill a Corkscrew using a Wooden Pickaxe",
+	"spec.quest.corkscrew.reward": "Reward - 2 Onyx Rings, 1 Alloy Spring",
+	"spec.quest.zealot": "<Dark Pursuit>",
+	"spec.quest.zealot.flavor": "About - A cult of lunatic Illagers are after Gray. He requests that you track them down and assasinate them.",
+	"spec.quest.zealot.desc": "Goal - Track down and kill the leader of the Heretic Patrol",
+	"spec.quest.zealot.reward": "Reward - 5 Onyx Rings, 2 Pearls"
 }

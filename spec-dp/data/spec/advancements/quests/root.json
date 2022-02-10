@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:writable_book"
+    },
+    "title": "Quests [Debug]",
+    "description": "",
+    "background": "minecraft:textures/block/bedrock.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "no": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
