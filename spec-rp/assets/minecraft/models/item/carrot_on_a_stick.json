@@ -7,6 +7,7 @@
 	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:item/golden_trumpet" },
 	{ "predicate": { "custom_model_data": 7131001 }, "model": "spec:item/abyssal_scripture" },
 	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:item/celestial_scripture" },
-	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:block/balm_vat_empty" }
+	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:block/balm_vat_empty" },
+	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:item/quest_log" }
   ]
 }

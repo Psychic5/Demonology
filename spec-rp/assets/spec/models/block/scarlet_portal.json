@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "spec:block/scarlet_portal",
+		"particle": "spec:block/scarlet_portal"
+	},
+	"elements": [
+		{
+			"name": "Base Lower",
+			"from": [1, -3, 1],
+			"to": [15, 1, 15],
+			"faces": {
+				"north": {"uv": [0, 14, 7, 16], "texture": "#0"},
+				"east": {"uv": [0, 14, 7, 16], "texture": "#0"},
+				"south": {"uv": [0, 14, 7, 16], "texture": "#0"},
+				"west": {"uv": [0, 14, 7, 16], "texture": "#0"},
+				"up": {"uv": [0, 7, 7, 14], "texture": "#0"},
+				"down": {"uv": [0, 7, 7, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Base Upper",
+			"from": [3, 1, 3],
+			"to": [13, 3, 13],
+			"faces": {
+				"north": {"uv": [0, 6, 5, 7], "texture": "#0"},
+				"east": {"uv": [0, 6, 5, 7], "texture": "#0"},
+				"south": {"uv": [0, 6, 5, 7], "texture": "#0"},
+				"west": {"uv": [0, 6, 5, 7], "texture": "#0"},
+				"up": {"uv": [0, 1, 5, 6], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Portal",
+			"from": [2, 4, 8],
+			"to": [14, 32, 8],
+			"faces": {
+				"north": {"uv": [10, 0, 16, 15], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [16, 0, 10, 15], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -6.6, -6]
+		}
+	}
+}

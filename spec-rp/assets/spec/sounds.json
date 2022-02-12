@@ -5,6 +5,9 @@
   "entity.player.quest_end": { "sounds": [
 "spec:entity/player/quest_end" ]},
 
+  "entity.player.quest_expire": { "sounds": [
+"spec:entity/player/quest_expire" ]},
+
   "entity.imp.ambient": { "subtitle": "spec.subtitle.entity.imp.ambient", "sounds": [
 "spec:entity/imp/idle0", "spec:entity/imp/idle1", "spec:entity/imp/idle2", "spec:entity/imp/idle3" ]},
 

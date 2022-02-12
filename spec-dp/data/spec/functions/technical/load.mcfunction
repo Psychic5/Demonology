@@ -18,6 +18,7 @@ scoreboard objectives add spec.celestial dummy
 
 ## Player
 scoreboard objectives add spec.carrot_on_a_stick minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add spec.quest_timer dummy
 
 ## Damage
 scoreboard objectives add spec.damage dummy

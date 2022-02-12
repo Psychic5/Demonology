@@ -17,6 +17,11 @@
 	"spec.item.corkscrew_shiv": "Corkscrew Shiv",
 	"spec.item.onyx_ring": "Onyx Ring",
 	"spec.item.ale": "Ale",
+	"spec.item.quest_log": "Quest Log",
+	"spec.item.idol_of_agony": "Idol of Agony",
+	"spec.item.trinket_of_torture": "Trinket of Torture",
+	"spec.item.bust_of_boring": "Bust of Boring",
+	"spec.item.effigy_of_influence": "Effigy of Influence",
 	
 	"spec.item.embalming_fluid": "Embalming Fluid",
 	"spec.item.pestilent_balm": "Pestilent Balm",
@@ -32,6 +37,10 @@
 	"spec.subtitle.item.book": "Player skims book",
 	"spec.subtitle.item.spectrometer": "Spectrometer clicks",
 	"spec.subtitle.item.trumpet": "Trumpet doots",
+	"spec.subtitle.item.idol_of_agony": "Idol rattles",
+	"spec.subtitle.item.trinket_of_torture": "Trinket fizzes",
+	"spec.subtitle.item.bust_of_boring": "Bust cracks",
+	"spec.subtitle.item.effigy_of_influence": "Effigy sheens",
 	
 	"spec.block.balm_vat": "Balm Vat",
 	
@@ -146,6 +155,7 @@
 	
 	"spec.ui.quest_start": "New quest acquired!",
 	"spec.ui.quest_end": "Quest complete!",
+	"spec.ui.quest_expire": "Quest expired...",
 	"spec.quest.corkscrew": "<A Pristine Steel>",
 	"spec.quest.corkscrew.flavor": "About - Gray requires the powerful alloy that Corkscrews are made of. It needs to be very pristine, using harsh weapons may scratch it!",
 	"spec.quest.corkscrew.desc": "Goal - Track down and kill a Corkscrew using a Wooden Pickaxe",

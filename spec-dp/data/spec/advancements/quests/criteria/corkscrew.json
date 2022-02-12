@@ -15,6 +15,13 @@
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "player": {
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:wooden_pickaxe"
+              ]
+            }
+          },
           "player": {
             "advancements": {
               "spec:quests/assigned/corkscrew": true
