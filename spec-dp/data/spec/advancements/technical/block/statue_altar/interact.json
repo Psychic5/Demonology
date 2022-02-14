@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "hopper": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:hopper"
+            ],
+            "nbt": "{Items:[{Slot:0b,id:\"minecraft:leather_horse_armor\",Count:1b,tag:{CustomModelData:7131000,spec:{block:{id:\"statue_altar\"}}}}]}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "spec:block/statue_altar/interact/start"
+  }
+}

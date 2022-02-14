@@ -19,9 +19,14 @@
 	"spec.item.ale": "Ale",
 	"spec.item.quest_log": "Quest Log",
 	"spec.item.bejeweled_beetroot": "Bejeweled Beetroot",
+	"spec.item.green_beads": "Green Beads",
+	"spec.item.orange_beads": "Orange Beads",
+	"spec.item.yellow_beads": "Yellow Beads",
+	"spec.item.blue_beads": "Blue Beads",
+	"spec.item.red_beads": "Red Beads",
+	"spec.item.bust_of_boring": "Bust of Boring",
 	"spec.item.idol_of_agony": "Idol of Agony",
 	"spec.item.trinket_of_torture": "Trinket of Torture",
-	"spec.item.bust_of_boring": "Bust of Boring",
 	"spec.item.effigy_of_influence": "Effigy of Influence",
 	
 	"spec.item.embalming_fluid": "Embalming Fluid",
@@ -40,16 +45,18 @@
 	"spec.subtitle.item.trumpet": "Trumpet doots",
 	"spec.subtitle.item.idol_of_agony": "Idol rattles",
 	"spec.subtitle.item.trinket_of_torture": "Trinket fizzes",
-	"spec.subtitle.item.bust_of_boring": "Bust cracks",
 	"spec.subtitle.item.effigy_of_influence": "Effigy sheens",
 	
 	"spec.block.balm_vat": "Balm Vat",
+	"spec.block.scarlet_portal": "Scarlet Portal",
+	"spec.block.statue_altar": "Statue Altar",
 	
 	"spec.subtitle.block.balm_vat.mix": "Balm Vat churns",
 	"spec.subtitle.block.balm_vat.bone": "Balm Vat filled",
-	
-	"spec.subtitle.entity.scarlet_portal.spawn": "Something exits Scarlet Portal",
-	"spec.subtitle.entity.scarlet_portal.ambient": "Scarlet Portal glubs",
+	"spec.subtitle.block.scarlet_portal.ambient": "Scarlet Portal fluxes",
+	"spec.subtitle.block.scarlet_portal.travel": "Something exits Scarlet Portal",
+	"spec.subtitle.block.statue_altar.item": "Item placed on Statue Altar",
+	"spec.subtitle.block.statue_altar.use": "Statue Altar used",
 	
 	"spec.entity.portal": "Vortex",
 	"spec.entity.imp": "Imp",

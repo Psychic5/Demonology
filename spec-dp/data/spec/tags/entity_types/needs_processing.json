@@ -2,6 +2,7 @@
   "replace": true,
   "values": [
     "minecraft:zombie",
-    "minecraft:creeper"
+    "minecraft:creeper",
+    "minecraft:evoker"
   ]
 }

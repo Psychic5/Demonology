@@ -6,6 +6,11 @@
 	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:item/pearl" },
 	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:item/alloy_spring" },
 	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:item/onyx_ring" },
-	{ "predicate": { "custom_model_data": 7131005 }, "model": "spec:item/flayed_cells" }
+	{ "predicate": { "custom_model_data": 7131005 }, "model": "spec:item/flayed_cells" },
+	{ "predicate": { "custom_model_data": 7131006 }, "model": "spec:item/green_beads" },
+	{ "predicate": { "custom_model_data": 7131007 }, "model": "spec:item/orange_beads" },
+	{ "predicate": { "custom_model_data": 7131008 }, "model": "spec:item/yellow_beads" },
+	{ "predicate": { "custom_model_data": 7131009 }, "model": "spec:item/blue_beads" },
+	{ "predicate": { "custom_model_data": 7131010 }, "model": "spec:item/red_beads" }
   ]
 }

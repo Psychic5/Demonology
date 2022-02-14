@@ -1,0 +1,1 @@
+execute anchored eyes run function spec:block/statue_altar/place/raycast

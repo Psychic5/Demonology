@@ -7,7 +7,11 @@
 	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:item/golden_trumpet" },
 	{ "predicate": { "custom_model_data": 7131001 }, "model": "spec:item/abyssal_scripture" },
 	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:item/celestial_scripture" },
-	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:block/balm_vat_empty" },
-	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:item/quest_log" }
+	{ "predicate": { "custom_model_data": 7131003 }, "model": "spec:item/balm_vat" },
+	{ "predicate": { "custom_model_data": 7131004 }, "model": "spec:item/quest_log" },
+	{ "predicate": { "custom_model_data": 7131005 }, "model": "spec:item/scarlet_portal" },
+	{ "predicate": { "custom_model_data": 7131006 }, "model": "spec:block/statue_altar" },
+	{ "predicate": { "custom_model_data": 7131007 }, "model": "spec:item/bust_of_boring" },
+	{ "predicate": { "custom_model_data": 7131008 }, "model": "spec:item/idol_of_agony" }
   ]
 }

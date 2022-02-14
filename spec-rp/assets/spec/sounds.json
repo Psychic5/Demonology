@@ -96,5 +96,17 @@
 "spec:block/balm_vat/mix" ]},
 
   "block.balm_vat.bone": { "subtitle": "spec.subtitle.block.balm_vat.bone", "sounds": [
-"spec:block/balm_vat/bone0", "spec:block/balm_vat/bone1" ]}
+"spec:block/balm_vat/bone0", "spec:block/balm_vat/bone1" ]},
+
+  "block.scarlet_portal.ambient": { "subtitle": "spec.subtitle.block.scarlet_portal.ambient", "sounds": [
+"spec:block/scarlet_portal/ambient0", "spec:block/scarlet_portal/ambient1", "spec:block/scarlet_portal/ambient2", "spec:block/scarlet_portal/ambient3", "spec:block/scarlet_portal/ambient4", "spec:block/scarlet_portal/ambient5", "spec:block/scarlet_portal/ambient6", "spec:block/scarlet_portal/ambient7" ]},
+
+  "block.scarlet_portal.travel": { "subtitle": "spec.subtitle.block.scarlet_portal.travel", "sounds": [
+"spec:block/scarlet_portal/travel" ]},
+
+  "block.statue_altar.item": { "subtitle": "spec.subtitle.block.statue_altar.item", "sounds": [
+"spec:block/statue_altar/item0", "spec:block/statue_altar/item1", "spec:block/statue_altar/item2", "spec:block/statue_altar/item3" ]},
+
+  "block.statue_altar.use": { "subtitle": "spec.subtitle.block.statue_altar.use", "sounds": [
+"spec:block/statue_altar/use" ]}
 }
