@@ -92,6 +92,12 @@
   "item.book": { "subtitle": "spec.subtitle.item.book", "sounds": [
 "spec:item/book" ]},
 
+  "item.idol_of_agony.activate": { "subtitle": "spec.subtitle.item.idol_of_agony.activate", "sounds": [
+"spec:item/idol_of_agony/start0", "spec:item/idol_of_agony/start1" ]},
+
+  "item.idol_of_agony.shatter": { "subtitle": "spec.subtitle.item.idol_of_agony.shatter", "sounds": [
+"spec:item/idol_of_agony/shatter" ]},
+
   "block.balm_vat.mix": { "subtitle": "spec.subtitle.block.balm_vat.mix", "sounds": [
 "spec:block/balm_vat/mix" ]},
 

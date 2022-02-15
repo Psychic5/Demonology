@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block",
+      "nbt": "{CustomModelData:7131006}"
+    },
+    "title": {
+      "translate": "spec.advancement.spectrum.statue"
+    },
+    "description": {
+      "translate": "spec.advancement.spectrum.statue.desc"
+    }
+  },
+  "parent": "spec:spectrum/root",
+  "criteria": {
+    "no": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

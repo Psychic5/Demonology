@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "toggle": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:carrot_on_a_stick"
+              ],
+              "nbt": "{spec:{id:\"idol_of_agony\"}}"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "spec:item/idol_of_agony/update"
+    }
+  }

@@ -43,9 +43,8 @@
 	"spec.subtitle.item.book": "Player skims book",
 	"spec.subtitle.item.spectrometer": "Spectrometer clicks",
 	"spec.subtitle.item.trumpet": "Trumpet doots",
-	"spec.subtitle.item.idol_of_agony": "Idol rattles",
-	"spec.subtitle.item.trinket_of_torture": "Trinket fizzes",
-	"spec.subtitle.item.effigy_of_influence": "Effigy sheens",
+	"spec.subtitle.item.idol_of_agony.activate": "Idol locks in",
+	"spec.subtitle.item.idol_of_agony.shatter": "Idol shatters",
 	
 	"spec.block.balm_vat": "Balm Vat",
 	"spec.block.scarlet_portal": "Scarlet Portal",
@@ -151,6 +150,10 @@
 	"spec.advancement.spectrum.virtue.desc": "Have a Virtue judge your Karma",
 	"spec.advancement.spectrum.gray": "Dept in Souls",
 	"spec.advancement.spectrum.gray.desc": "Meet Gray",
+	"spec.advancement.spectrum.statue": "A Good Stature",
+	"spec.advancement.spectrum.statue.desc": "Add Beads to a Bust of Boring using a Statue Altar",
+	"spec.advancement.spectrum.idol_of_agony": "Numb and Tortured",
+	"spec.advancement.spectrum.idol_of_agony.desc": "Commit and shatter an Idol of Agony in your hands",
 	
 	"spec.ui.quest_start": "New quest acquired!",
 	"spec.ui.quest_end": "Quest complete!",
