@@ -3,6 +3,7 @@
   "values": [
     "minecraft:wandering_trader",
     "minecraft:zombie",
-    "minecraft:armor_stand"
+    "minecraft:armor_stand",
+    "minecraft:item"
   ]
 }

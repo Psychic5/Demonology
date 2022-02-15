@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"trinket_of_torture\"},CustomModelData:7131010}"
+              "tag": "{spec:{id:\"trinket_of_torture\",stats:{offhand:{soul_collection:{amount:100}}}},CustomModelData:7131010}"
             },
             {
               "function": "minecraft:set_name",
@@ -33,6 +33,20 @@
                   "translate": "spec.pack",
                   "color": "#FFFA61",
                   "italic": false
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "translate": "item.modifiers.offhand",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "translate": "spec.attribute.soul_collection.+",
+                  "color": "blue",
+                  "italic": false,
+                  "with": [{"text":"100"}]
                 }
               ]
             }

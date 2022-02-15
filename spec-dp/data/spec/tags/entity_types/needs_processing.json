@@ -1,8 +1,7 @@
 {
   "replace": true,
   "values": [
-    "minecraft:zombie",
-    "minecraft:creeper",
-    "minecraft:evoker"
+    "#spec:antivil",
+    "minecraft:creeper"
   ]
 }

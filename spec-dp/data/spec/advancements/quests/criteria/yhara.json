@@ -14,7 +14,13 @@
     "quest": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "player": {},
+        "player": {
+          "player": {
+            "advancements": {
+              "spec:quests/assigned/yhara": true
+            }
+          }
+        },
         "entity": {
           "type": "minecraft:wandering_trader",
           "nbt": "{Tags:[\"spec.entity.yhara\"]}"

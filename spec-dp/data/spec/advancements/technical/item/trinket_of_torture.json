@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "toggle": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:carrot_on_a_stick"
+              ],
+              "nbt": "{spec:{id:\"trinket_of_torture\"}}"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "spec:item/trinket_of_torture/update"
+    }
+  }

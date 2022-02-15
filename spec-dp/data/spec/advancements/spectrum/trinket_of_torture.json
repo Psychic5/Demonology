@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:7131010}"
+    },
+    "title": {
+      "translate": "spec.advancement.spectrum.trinket_of_torture"
+    },
+    "description": {
+      "translate": "spec.advancement.spectrum.trinket_of_torture.desc"
+    },
+    "frame": "goal"
+  },
+  "parent": "spec:spectrum/statue",
+  "criteria": {
+    "no": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

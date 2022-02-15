@@ -7,6 +7,7 @@ scoreboard objectives add spec.effect.scent.amp dummy
 ## Dummies
 scoreboard objectives add spec.animation dummy
 scoreboard objectives add spec.temp dummy
+scoreboard objectives add spec.temp2 dummy
 scoreboard objectives add spec.dummy dummy
 scoreboard objectives add spec.dummy2 dummy
 scoreboard objectives add spec.dummy3 dummy
@@ -20,6 +21,10 @@ scoreboard objectives add spec.celestial dummy
 scoreboard objectives add spec.health health
 scoreboard objectives add spec.carrot_on_a_stick minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add spec.quest_timer dummy
+scoreboard objectives add spec.souls dummy
+
+## Items
+scoreboard objectives add spec.trinket_of_torture dummy
 
 ## Damage
 scoreboard objectives add spec.damage dummy
@@ -38,3 +43,7 @@ scoreboard players set #2500 spec.damage 2500
 
 ## World
 execute store result score #spec.difficulty spec.dummy run difficulty
+
+## Sbifed
+team add smithed.prevent_aggression
+team modify smithed.prevent_aggression friendlyFire false

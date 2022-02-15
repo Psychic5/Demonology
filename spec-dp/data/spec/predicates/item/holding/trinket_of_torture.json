@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "count": 1,
+        "nbt": "{spec:{id:\"trinket_of_torture\"}}"
+      }
+    }
+  }
+}

@@ -8,6 +8,9 @@
   "entity.player.quest_expire": { "sounds": [
 "spec:entity/player/quest_expire" ]},
 
+  "entity.player.soul": { "subtitle": "spec.subtitle.entity.player.soul", "sounds": [
+"minecraft:enchant/soulspeed/soulspeed1", "minecraft:enchant/soulspeed/soulspeed2", "minecraft:enchant/soulspeed/soulspeed3", "minecraft:enchant/soulspeed/soulspeed4", "minecraft:enchant/soulspeed/soulspeed5", "minecraft:enchant/soulspeed/soulspeed6", "minecraft:enchant/soulspeed/soulspeed7", "minecraft:enchant/soulspeed/soulspeed8", "minecraft:enchant/soulspeed/soulspeed9", "minecraft:enchant/soulspeed/soulspeed10", "minecraft:enchant/soulspeed/soulspeed11", "minecraft:enchant/soulspeed/soulspeed12", "minecraft:enchant/soulspeed/soulspeed13" ]},
+
   "entity.imp.ambient": { "subtitle": "spec.subtitle.entity.imp.ambient", "sounds": [
 "spec:entity/imp/idle0", "spec:entity/imp/idle1", "spec:entity/imp/idle2", "spec:entity/imp/idle3" ]},
 
@@ -97,6 +100,12 @@
 
   "item.idol_of_agony.shatter": { "subtitle": "spec.subtitle.item.idol_of_agony.shatter", "sounds": [
 "spec:item/idol_of_agony/shatter" ]},
+
+  "item.trinket_of_torture.activate": { "subtitle": "spec.subtitle.item.trinket_of_torture.activate", "sounds": [
+"spec:item/idol_of_agony/start0", "spec:item/idol_of_agony/start1" ]},
+
+  "item.trinket_of_torture.shatter": { "subtitle": "spec.subtitle.item.trinket_of_torture.shatter", "sounds": [
+"spec:item/trinket_of_torture/shatter" ]},
 
   "block.balm_vat.mix": { "subtitle": "spec.subtitle.block.balm_vat.mix", "sounds": [
 "spec:block/balm_vat/mix" ]},

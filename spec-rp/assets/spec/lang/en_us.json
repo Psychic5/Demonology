@@ -27,7 +27,10 @@
 	"spec.item.bust_of_boring": "Bust of Boring",
 	"spec.item.idol_of_agony": "Idol of Agony",
 	"spec.item.trinket_of_torture": "Trinket of Torture",
+	"spec.item.trinket_of_torture.desc": "%s Souls",
 	"spec.item.effigy_of_influence": "Effigy of Influence",
+
+        "spec.attribute.soul_collection.+": "+%s%% Reaping",
 	
 	"spec.item.embalming_fluid": "Embalming Fluid",
 	"spec.item.pestilent_balm": "Pestilent Balm",
@@ -45,6 +48,8 @@
 	"spec.subtitle.item.trumpet": "Trumpet doots",
 	"spec.subtitle.item.idol_of_agony.activate": "Idol locks in",
 	"spec.subtitle.item.idol_of_agony.shatter": "Idol shatters",
+	"spec.subtitle.item.trinket_of_torture.activate": "Trinket locks in",
+	"spec.subtitle.item.trinket_of_torture.shatter": "Trinket shatters",
 	
 	"spec.block.balm_vat": "Balm Vat",
 	"spec.block.scarlet_portal": "Scarlet Portal",
@@ -68,6 +73,7 @@
 	"spec.entity.lefty": "Lefty",
 	"spec.entity.righty": "Righty",
 	
+	"spec.subtitle.entity.player.soul": "Player absorbs soul",
 	"spec.subtitle.entity.imp.ambient": "Imp murmurs",
 	"spec.subtitle.entity.imp.hurt": "Imp hurts",
 	"spec.subtitle.entity.imp.death": "Imp dies",
@@ -154,6 +160,8 @@
 	"spec.advancement.spectrum.statue.desc": "Add Beads to a Bust of Boring using a Statue Altar",
 	"spec.advancement.spectrum.idol_of_agony": "Numb and Tortured",
 	"spec.advancement.spectrum.idol_of_agony.desc": "Commit and shatter an Idol of Agony in your hands",
+	"spec.advancement.spectrum.trinket_of_torture": "The Gleaning",
+	"spec.advancement.spectrum.trinket_of_torture.desc": "Commit a Trinket of Torture and then shatter it after collecting a soul",
 	
 	"spec.ui.quest_start": "New quest acquired!",
 	"spec.ui.quest_end": "Quest complete!",
