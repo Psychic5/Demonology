@@ -6,3 +6,5 @@ execute if predicate spec:entity/player/survival run item modify entity @s weapo
 
 playsound spec:block.statue_altar.use block @a
 particle minecraft:firework ~ ~0.1 ~ 0 0 0 0.1 25
+
+experience add @s -5 levels

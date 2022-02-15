@@ -12,6 +12,8 @@
 	{ "predicate": { "custom_model_data": 7131005 }, "model": "spec:item/scarlet_portal" },
 	{ "predicate": { "custom_model_data": 7131006 }, "model": "spec:block/statue_altar" },
 	{ "predicate": { "custom_model_data": 7131007 }, "model": "spec:item/bust_of_boring" },
-	{ "predicate": { "custom_model_data": 7131008 }, "model": "spec:item/idol_of_agony" }
+	{ "predicate": { "custom_model_data": 7131008 }, "model": "spec:item/idol_of_agony" },
+	{ "predicate": { "custom_model_data": 7131009 }, "model": "spec:item/effigy_of_influence" },
+	{ "predicate": { "custom_model_data": 7131010 }, "model": "spec:item/trinket_of_torture" }
   ]
 }

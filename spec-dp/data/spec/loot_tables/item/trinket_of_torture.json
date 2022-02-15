@@ -14,32 +14,13 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"idol_of_agony\"},CustomModelData:7131008}"
-            },
-            {
-              "function": "minecraft:set_attributes",
-              "modifiers": [
-                {
-                  "attribute": "minecraft:generic.max_health",
-                  "name": "generic.max_health",
-                  "amount": -10,
-                  "operation": "addition",
-                  "slot": "offhand"
-                },
-                {
-                  "attribute": "minecraft:generic.attack_damage",
-                  "name": "generic.attack_damage",
-                  "amount": 1,
-                  "operation": "multiply_total",
-                  "slot": "offhand"
-                }
-              ]
+              "tag": "{spec:{id:\"trinket_of_torture\"},CustomModelData:7131010}"
             },
             {
               "function": "minecraft:set_name",
               "name": [
                 {
-                  "translate": "spec.item.idol_of_agony",
+                  "translate": "spec.item.trinket_of_torture",
                   "color": "yellow",
                   "italic": false
                 }
