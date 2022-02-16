@@ -14,13 +14,13 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"statue_altar\"},CustomModelData:7131006}"
+              "tag": "{spec:{id:\"altar\"},CustomModelData:7131006}"
             },
             {
               "function": "minecraft:set_name",
               "name": [
                 {
-                  "translate": "spec.block.statue_altar",
+                  "translate": "spec.block.altar",
                   "color": "white",
                   "italic": "false"
                 }

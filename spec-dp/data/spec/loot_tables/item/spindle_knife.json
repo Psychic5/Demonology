@@ -1,0 +1,76 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2,spec:{id:\"spindle_knife\",stats:{mainhand:{soul_collection:{amount:25}}}},CustomModelData:7131011}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "spec.item.spindle_knife",
+                  "color": "white",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "spec.pack",
+                  "color": "#FFFA61",
+                  "italic": false
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "translate": "item.modifiers.offhand",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "translate": "attribute.modifier.plus.0",
+                  "color": "blue",
+                  "italic": false,
+                  "with": [{"text":"5"},{"translate":"attribute.name.generic.attack_damage"}]
+                },
+                {
+                  "translate": "spec.attribute.soul_collection.+",
+                  "color": "blue",
+                  "italic": false,
+                  "with": [{"text":"25"}]
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "generic.attack_damage",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "spec:item/green_beads"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "spec:item/orange_beads"
+        }
+      ]
+    }
+  ]
+}

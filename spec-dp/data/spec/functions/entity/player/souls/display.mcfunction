@@ -1,0 +1,1 @@
+title @s actionbar [{"text":"\ua000","font":"spec:generic"},{"score":{"name":"@s","objective":"spec.souls"},"color":"aqua","font":"minecraft:default"}]

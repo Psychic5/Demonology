@@ -8,13 +8,13 @@
             "blocks": [
               "minecraft:hopper"
             ],
-            "nbt": "{Items:[{Slot:0b,id:\"minecraft:leather_horse_armor\",Count:1b,tag:{CustomModelData:7131000,spec:{block:{id:\"statue_altar\"}}}}]}"
+            "nbt": "{Items:[{Slot:0b,id:\"minecraft:leather_horse_armor\",Count:1b,tag:{CustomModelData:7131000,spec:{block:{id:\"altar\"}}}}]}"
           }
         }
       }
     }
   },
   "rewards": {
-    "function": "spec:block/statue_altar/interact/start"
+    "function": "spec:block/altar/interact/start"
   }
 }

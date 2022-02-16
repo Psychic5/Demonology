@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "spec:block/statue_altar_side",
-		"1": "spec:block/statue_altar_bottom",
-		"2": "spec:block/statue_altar_top",
-		"particle": "spec:block/statue_altar_side"
+		"0": "spec:block/altar_side",
+		"1": "spec:block/altar_bottom",
+		"2": "spec:block/altar_top",
+		"particle": "spec:block/altar_side"
 	},
 	"elements": [
 		{

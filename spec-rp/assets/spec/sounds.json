@@ -119,9 +119,9 @@
   "block.scarlet_portal.travel": { "subtitle": "spec.subtitle.block.scarlet_portal.travel", "sounds": [
 "spec:block/scarlet_portal/travel" ]},
 
-  "block.statue_altar.item": { "subtitle": "spec.subtitle.block.statue_altar.item", "sounds": [
-"spec:block/statue_altar/item0", "spec:block/statue_altar/item1", "spec:block/statue_altar/item2", "spec:block/statue_altar/item3" ]},
+  "block.altar.item": { "subtitle": "spec.subtitle.block.altar.item", "sounds": [
+"spec:block/altar/item0", "spec:block/altar/item1", "spec:block/altar/item2", "spec:block/altar/item3" ]},
 
-  "block.statue_altar.use": { "subtitle": "spec.subtitle.block.statue_altar.use", "sounds": [
-"spec:block/statue_altar/use" ]}
+  "block.altar.use": { "subtitle": "spec.subtitle.block.altar.use", "sounds": [
+"spec:block/altar/use" ]}
 }

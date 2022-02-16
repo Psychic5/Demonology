@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:particle/soul_9.png",
+      "ascent": 10,
+      "height": 24,
+      "chars": [
+        "\ua000"
+      ]
+    }
+  ]
+}

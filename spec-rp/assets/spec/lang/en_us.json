@@ -53,14 +53,14 @@
 	
 	"spec.block.balm_vat": "Balm Vat",
 	"spec.block.scarlet_portal": "Scarlet Portal",
-	"spec.block.statue_altar": "Statue Altar",
+	"spec.block.altar": "Deepslate Altar",
 	
 	"spec.subtitle.block.balm_vat.mix": "Balm Vat churns",
 	"spec.subtitle.block.balm_vat.bone": "Balm Vat filled",
 	"spec.subtitle.block.scarlet_portal.ambient": "Scarlet Portal fluxes",
 	"spec.subtitle.block.scarlet_portal.travel": "Something exits Scarlet Portal",
-	"spec.subtitle.block.statue_altar.item": "Item placed on Statue Altar",
-	"spec.subtitle.block.statue_altar.use": "Statue Altar used",
+	"spec.subtitle.block.altar.item": "Altar clatters",
+	"spec.subtitle.block.altar.use": "Altar crafts",
 	
 	"spec.entity.portal": "Vortex",
 	"spec.entity.imp": "Imp",
