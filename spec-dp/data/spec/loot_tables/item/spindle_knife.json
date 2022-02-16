@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:2,spec:{id:\"spindle_knife\",stats:{mainhand:{soul_collection:{amount:25}}}},CustomModelData:7131011}"
+              "tag": "{HideFlags:2,spec:{id:\"spindle_knife\",stats:{mainhand:{soul_collection:{amount:20}}}},CustomModelData:7131011}"
             },
             {
               "function": "minecraft:set_name",
@@ -52,7 +52,7 @@
                   "translate": "spec.attribute.soul_collection.+",
                   "color": "blue",
                   "italic": false,
-                  "with": [{"text":"25"}]
+                  "with": [{"text":"20"}]
                 }
               ]
             },
