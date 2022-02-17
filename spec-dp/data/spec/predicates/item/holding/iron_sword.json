@@ -4,8 +4,10 @@
   "predicate": {
     "equipment": {
       "mainhand": {
-        "count": 1,
-        "nbt": "{spec:{id:\"abyssal_scripture\"}}"
+        "items": [
+          "minecraft:iron_sword"
+        ],
+        "count": 1
       }
     }
   }

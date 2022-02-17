@@ -1,0 +1,14 @@
+{
+"type": "crafting_shaped",
+"pattern": [
+"UEU",
+"UUU",
+" U "
+],
+"key": {
+"U": {"item": "minecraft:cobbled_deepslate"},
+"E": {"item": "minecraft:quartz"}
+},
+"result": {
+"item": "minecraft:knowledge_book"
+}}

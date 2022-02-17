@@ -4,8 +4,13 @@
   "predicate": {
     "equipment": {
       "mainhand": {
-        "count": 1,
-        "nbt": "{spec:{id:\"celestial_scripture\"}}"
+        "items": [
+          "minecraft:copper_block"
+        ],
+        "count": {
+          "min": 1,
+          "max": 64
+        }
       }
     }
   }

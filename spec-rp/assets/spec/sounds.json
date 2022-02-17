@@ -86,6 +86,15 @@
   "entity.corkscrew.acid": { "subtitle": "spec.subtitle.entity.corkscrew.acid", "sounds": [
 "spec:entity/corkscrew/acid0", "spec:entity/corkscrew/acid1", "spec:entity/corkscrew/acid2", "spec:entity/corkscrew/acid3" ]},
 
+  "entity.gray.ambient": { "subtitle": "spec.subtitle.entity.gray.ambient", "sounds": [
+"spec:entity/gray/idle0", "spec:entity/gray/idle1", "spec:entity/gray/idle2", "spec:entity/gray/idle3" ]},
+
+  "entity.gray.hurt": { "subtitle": "spec.subtitle.entity.gray.hurt", "sounds": [
+"spec:entity/gray/hurt0", "spec:entity/gray/hurt1" ]},
+
+  "entity.gray.death": { "subtitle": "spec.subtitle.entity.gray.death", "sounds": [
+"spec:entity/gray/death" ]},
+
   "item.spectrometer.use": { "subtitle": "spec.subtitle.item.spectrometer", "sounds": [
 "minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]},
 

@@ -12,6 +12,26 @@
               "tag": "{spec:{id:\"quest\",quest:\"corkscrew\"}}"
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{spec:{id:\"quest\",quest:\"healing_pot\"}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{spec:{id:\"quest\",quest:\"yhara\"}}"
+            }
+          ]
         }
       ]
     }

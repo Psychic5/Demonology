@@ -1,14 +1,28 @@
 {
   "criteria": {
-    "requirement": {
+    "tag": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {
           "type": "#spec:has_soul"
         }
       }
+    },
+    "forced_tag": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"spec.tag.force_soul\"]}"
+        }
+      }
     }
   },
+  "requirements": [
+    [
+      "tag",
+      "forced_tag"
+    ]
+  ],
   "rewards": {
     "function": "spec:entity/player/souls/kill"
   }

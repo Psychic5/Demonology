@@ -6,15 +6,6 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "spec:item/bust_of_boring"
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
           "name": "spec:item/green_beads"
         },
         {

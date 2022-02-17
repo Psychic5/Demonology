@@ -1,0 +1,1 @@
+execute if predicate spec:random/25_percent unless entity @e[tag=spec.entity.gray,distance=0..8] run function spec:entity/gray/lackey/track_gray
