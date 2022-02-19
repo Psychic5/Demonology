@@ -1,0 +1,19 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "dimension": "minecraft:the_nether"
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:zombified_piglin"
+    }
+  },
+  {
+    "condition": "minecraft:random_chance",
+    "chance": 0.05
+  }
+]

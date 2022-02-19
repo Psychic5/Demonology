@@ -29,3 +29,8 @@ tellraw @s[advancements={spec:quests/assigned/yhara=true}] {"translate":"spec.qu
 tellraw @s[advancements={spec:quests/assigned/yhara=true}] {"translate":"spec.quest.yhara.flavor","color":"aqua"}
 tellraw @s[advancements={spec:quests/assigned/yhara=true}] {"translate":"spec.quest.yhara.desc","color":"green"}
 tellraw @s[advancements={spec:quests/assigned/yhara=true}] {"translate":"spec.quest.yhara.reward","color":"gold"}
+
+tellraw @s[advancements={spec:quests/assigned/hoglin=true}] {"translate":"spec.quest.hoglin","color":"gold"}
+tellraw @s[advancements={spec:quests/assigned/hoglin=true}] {"translate":"spec.quest.hoglin.flavor","color":"aqua"}
+tellraw @s[advancements={spec:quests/assigned/hoglin=true}] {"translate":"spec.quest.hoglin.desc","color":"green"}
+tellraw @s[advancements={spec:quests/assigned/hoglin=true}] {"translate":"spec.quest.hoglin.reward","color":"gold"}

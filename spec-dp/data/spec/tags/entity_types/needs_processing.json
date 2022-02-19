@@ -2,6 +2,7 @@
   "replace": true,
   "values": [
     "#spec:antivil",
-    "minecraft:creeper"
+    "minecraft:creeper",
+    "minecraft:zombified_piglin"
   ]
 }

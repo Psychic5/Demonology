@@ -32,6 +32,16 @@
               "tag": "{spec:{id:\"quest\",quest:\"yhara\"}}"
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{spec:{id:\"quest\",quest:\"hoglin\"}}"
+            }
+          ]
         }
       ]
     }

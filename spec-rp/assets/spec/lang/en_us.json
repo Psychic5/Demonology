@@ -29,6 +29,7 @@
 	"spec.item.trinket_of_torture": "Trinket of Torture",
 	"spec.item.trinket_of_torture.desc": "%s Souls",
 	"spec.item.effigy_of_influence": "Effigy of Influence",
+	"spec.item.ghost_quiver": "Ghost Quiver",
 
         "spec.attribute.soul_collection.+": "+%s%% Reaping",
 	
@@ -50,6 +51,7 @@
 	"spec.subtitle.item.idol_of_agony.shatter": "Idol shatters",
 	"spec.subtitle.item.trinket_of_torture.activate": "Trinket locks in",
 	"spec.subtitle.item.trinket_of_torture.shatter": "Trinket shatters",
+	"spec.subtitle.item.ghost_quiver": "Ghost Quiver used",
 	
 	"spec.block.balm_vat": "Balm Vat",
 	"spec.block.scarlet_portal": "Scarlet Portal",
@@ -185,6 +187,7 @@
 	"spec.ui.quest_start": "New quest acquired!",
 	"spec.ui.quest_end": "Quest complete!",
 	"spec.ui.quest_expire": "Quest expired...",
+
 	"spec.quest.corkscrew": "<A Pristine Steel>",
 	"spec.quest.corkscrew.flavor": "About - Gray requires the powerful alloy that Corkscrews are made of. It needs to be very pristine, using harsh weapons may scratch it!",
 	"spec.quest.corkscrew.desc": "Goal - Track down and kill a Corkscrew using a Wooden Pickaxe",
@@ -199,6 +202,11 @@
 	"spec.quest.yhara.flavor": "About - Gray requires the fresh bile of a Yharamayawho for a brew. You must locate and slay the rare beast for a large reward.",
 	"spec.quest.yhara.desc": "Goal - Kill a Yharamayawho",
 	"spec.quest.yhara.reward": "Reward - 3 Onyx Rings, 12 Bones, 1 Ale",
+
+	"spec.quest.hoglin": "<Gnarly Ecosystem>",
+	"spec.quest.hoglin.flavor": "About - Gray requests fresh Hoglin meat for a pie. However, you must breed the beasts before the slaughter, to do your part to keep up the Nether's ecosystem.",
+	"spec.quest.hoglin.desc": "Goal - Breed two hoglins and kill one",
+	"spec.quest.hoglin.reward": "Reward - 3 Onyx Rings, 6 Cooked Porkchops, 1 Ale",
 
 	"spec.quest.zealot": "<Dark Pursuit>",
 	"spec.quest.zealot.flavor": "About - A cult of lunatic Illagers are after Gray. He requests that you track them down and assasinate them.",

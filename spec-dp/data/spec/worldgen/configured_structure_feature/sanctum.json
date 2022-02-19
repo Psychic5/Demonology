@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "spec:sanctum",
+    "size": 1
+  },
+  "biomes": "#minecraft:has_structure/igloo",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

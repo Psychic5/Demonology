@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{spec:{id:\"sanctum_map\"}}"
+            },
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "spec:sanctum",
+              "decoration": "target_x",
+              "zoom": 2,
+              "search_radius": 50,
+              "skip_existing_chunks": true
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "spec.item.sanctum_map",
+                  "color": "white",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "spec.pack",
+                  "color": "#FFFA61",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -21,6 +21,7 @@ scoreboard objectives add spec.celestial dummy
 scoreboard objectives add spec.health health
 scoreboard objectives add spec.carrot_on_a_stick minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add spec.quest_timer dummy
+scoreboard objectives add spec.quest_progress dummy
 scoreboard objectives add spec.souls dummy
 
 ## Items
