@@ -1,0 +1,9 @@
+{
+   "pack":{
+      "pack_format": 9,
+      "description": [
+		{"text":"Spectrum ","color":"#FFFA61"},
+		{"text":"v0.1","color":"#FFC591"}
+	  ]
+   }
+}

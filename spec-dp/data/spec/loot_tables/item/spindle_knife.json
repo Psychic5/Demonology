@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:2,spec:{id:\"spindle_knife\",stats:{mainhand:{soul_collection:{amount:20}}}},CustomModelData:7131011}"
+              "tag": "{Unbreakable:1,HideFlags:6,spec:{id:\"spindle_knife\",stats:{mainhand:{soul_collection:{amount:20}}}},CustomModelData:7131011}"
             },
             {
               "function": "minecraft:set_name",
@@ -38,7 +38,7 @@
                   "text": ""
                 },
                 {
-                  "translate": "item.modifiers.offhand",
+                  "translate": "item.modifiers.mainhand",
                   "color": "gray",
                   "italic": false
                 },

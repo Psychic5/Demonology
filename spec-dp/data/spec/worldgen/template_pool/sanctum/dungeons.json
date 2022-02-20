@@ -1,0 +1,15 @@
+{
+  "name": "spec:sanctum/dungeons",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "spec:sanctum/dungeons/ritual_a",
+        "projection": "rigid",
+        "processors": "spec:sanctum_dungeon_degrade"
+      }
+    }
+  ]
+}

@@ -14,12 +14,12 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"sanctum_map\"}}"
+              "tag": "{display:{MapColor:11017737},spec:{id:\"sanctum_map\"}}"
             },
             {
               "function": "minecraft:exploration_map",
               "destination": "spec:sanctum",
-              "decoration": "target_x",
+              "decoration": "banner_red",
               "zoom": 2,
               "search_radius": 50,
               "skip_existing_chunks": true

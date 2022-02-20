@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"effigy_of_influence\"},CustomModelData:7131009}"
+              "tag": "{HideFlags:4,Unbreakable:1b,spec:{id:\"effigy_of_influence\"},CustomModelData:7131009}"
             },
             {
               "function": "minecraft:set_name",

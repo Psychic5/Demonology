@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Unbreakable:1,HideFlags:4,spec:{id:\"ghast_quiver\",stats:{offhand:{soul_collection:{amount:5}}}},CustomModelData:7131012}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "spec.item.ghast_quiver",
+                  "color": "white",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "spec.pack",
+                  "color": "#FFFA61",
+                  "italic": false
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "translate": "item.modifiers.offhand",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "translate": "spec.attribute.soul_collection.+",
+                  "color": "blue",
+                  "italic": false,
+                  "with": [{"text":"5"}]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

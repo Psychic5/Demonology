@@ -116,6 +116,9 @@
   "item.trinket_of_torture.shatter": { "subtitle": "spec.subtitle.item.trinket_of_torture.shatter", "sounds": [
 "spec:item/trinket_of_torture/shatter" ]},
 
+  "item.ghast_quiver": { "subtitle": "spec.subtitle.item.ghast_quiver", "sounds": [
+"spec:item/ghast_quiver" ]},
+
   "block.balm_vat.mix": { "subtitle": "spec.subtitle.block.balm_vat.mix", "sounds": [
 "spec:block/balm_vat/mix" ]},
 

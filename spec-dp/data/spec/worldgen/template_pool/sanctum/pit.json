@@ -1,14 +1,14 @@
 {
-  "name": "spec:sanctum",
+  "name": "spec:sanctum/pit",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "spec:sanctum/tower",
+        "location": "spec:sanctum/pit",
         "projection": "rigid",
-        "processors": "minecraft:empty"
+        "processors": "spec:sanctum_halls_degrade"
       }
     }
   ]

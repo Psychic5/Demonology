@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"idol_of_agony\"},CustomModelData:7131008}"
+              "tag": "{HideFlags:4,Unbreakable:1b,spec:{id:\"idol_of_agony\"},CustomModelData:7131008}"
             },
             {
               "function": "minecraft:set_attributes",

@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"trinket_of_torture\",stats:{offhand:{soul_collection:{amount:100}}}},CustomModelData:7131010}"
+              "tag": "{HideFlags:4,Unbreakable:1b,spec:{id:\"trinket_of_torture\",stats:{offhand:{soul_collection:{amount:100}}}},CustomModelData:7131010}"
             },
             {
               "function": "minecraft:set_name",

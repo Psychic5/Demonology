@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "spec:entity/cultist/head",
+		"particle": "spec:entity/cultist/head"
+	},
+	"elements": [
+		{
+			"name": "Head",
+			"from": [3.9999, 20.9999, 3.9999],
+			"to": [12.0001, 31.0001, 12.0001],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 20.66667, 7.33333]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 9], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 4, 4, 9], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [12, 4, 16, 9], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [8, 4, 12, 9], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Nose",
+			"from": [6.9999, 19.9999, 1.9999],
+			"to": [9.0001, 24.0001, 4.0001],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 20.66667, 7.33333]},
+			"faces": {
+				"north": {"uv": [13, 1, 14, 3], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [12, 1, 13, 3], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [15, 1, 16, 3], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [14, 1, 15, 3], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [14, 1, 13, 0], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [15, 0, 14, 1], "texture": "#0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -6.6, -6]
+		},
+		"head": {
+			"translation": [0, -27.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

@@ -15,6 +15,7 @@
 	{ "predicate": { "custom_model_data": 7131008 }, "model": "spec:item/idol_of_agony" },
 	{ "predicate": { "custom_model_data": 7131009 }, "model": "spec:item/effigy_of_influence" },
 	{ "predicate": { "custom_model_data": 7131010 }, "model": "spec:item/trinket_of_torture" },
-	{ "predicate": { "custom_model_data": 7131011 }, "model": "spec:item/spindle_knife" }
+	{ "predicate": { "custom_model_data": 7131011 }, "model": "spec:item/spindle_knife" },
+	{ "predicate": { "custom_model_data": 7131012 }, "model": "spec:item/ghast_quiver" }
   ]
 }

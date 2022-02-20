@@ -54,6 +54,7 @@
 	{ "predicate": { "custom_model_data": 7131047 }, "model": "spec:entity/gray/lefty_idle" },
 	{ "predicate": { "custom_model_data": 7131048 }, "model": "spec:entity/gray/lefty_moving" },
 	{ "predicate": { "custom_model_data": 7131049 }, "model": "spec:block/scarlet_portal" },
-	{ "predicate": { "custom_model_data": 7131050 }, "model": "spec:block/balm_vat_empty" }
+	{ "predicate": { "custom_model_data": 7131050 }, "model": "spec:block/balm_vat_empty" },
+	{ "predicate": { "custom_model_data": 7131051 }, "model": "spec:entity/cultist/head" }
   ]
 }
