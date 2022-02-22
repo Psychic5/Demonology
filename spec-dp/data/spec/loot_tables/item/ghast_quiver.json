@@ -14,14 +14,14 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Unbreakable:1,HideFlags:4,spec:{id:\"ghast_quiver\",stats:{offhand:{soul_collection:{amount:5}}}},CustomModelData:7131012}"
+              "tag": "{Unbreakable:1,HideFlags:4,spec:{id:\"ghast_quiver\"},CustomModelData:7131012}"
             },
             {
               "function": "minecraft:set_name",
               "name": [
                 {
                   "translate": "spec.item.ghast_quiver",
-                  "color": "white",
+                  "color": "yellow",
                   "italic": false
                 }
               ]
@@ -38,15 +38,10 @@
                   "text": ""
                 },
                 {
-                  "translate": "item.modifiers.offhand",
-                  "color": "gray",
-                  "italic": false
-                },
-                {
-                  "translate": "spec.attribute.soul_collection.+",
-                  "color": "blue",
+                  "translate": "spec.souls.cost",
+                  "color": "aqua",
                   "italic": false,
-                  "with": [{"text":"5"}]
+                  "with": [{"text":"1"}]
                 }
               ]
             }

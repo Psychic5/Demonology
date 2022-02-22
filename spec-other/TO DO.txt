@@ -9,12 +9,12 @@
 [] Virtue spawning
 [] Better angel attacking
 [] Premade wiki
+[] Sanctum
 [] Playtesting
 
 0.2
 - More fleshed out Angels
 - More Demons
-- Heretics
 - Scarmine
 - Traumalium as a counterpart to Scarmine?
 - Garlic?

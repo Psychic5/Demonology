@@ -55,6 +55,22 @@
 	{ "predicate": { "custom_model_data": 7131048 }, "model": "spec:entity/gray/lefty_moving" },
 	{ "predicate": { "custom_model_data": 7131049 }, "model": "spec:block/scarlet_portal" },
 	{ "predicate": { "custom_model_data": 7131050 }, "model": "spec:block/balm_vat_empty" },
-	{ "predicate": { "custom_model_data": 7131051 }, "model": "spec:entity/cultist/head" }
+	{ "predicate": { "custom_model_data": 7131051 }, "model": "spec:entity/cultist/head" },
+	{ "predicate": { "custom_model_data": 7131052 }, "model": "spec:entity/soul/blue" },
+	{ "predicate": { "custom_model_data": 7131053 }, "model": "spec:entity/soul/blue_bound" },
+	{ "predicate": { "custom_model_data": 7131054 }, "model": "spec:entity/minder/idle" },
+	{ "predicate": { "custom_model_data": 7131055 }, "model": "spec:entity/minder/moving" },
+	{ "predicate": { "custom_model_data": 7131056 }, "model": "spec:entity/minder/animations/spawn/1" },
+	{ "predicate": { "custom_model_data": 7131057 }, "model": "spec:entity/minder/animations/spawn/2" },
+	{ "predicate": { "custom_model_data": 7131058 }, "model": "spec:entity/minder/animations/spawn/3" },
+	{ "predicate": { "custom_model_data": 7131059 }, "model": "spec:entity/minder/animations/spawn/4" },
+	{ "predicate": { "custom_model_data": 7131060 }, "model": "spec:entity/minder/animations/spawn/5" },
+	{ "predicate": { "custom_model_data": 7131061 }, "model": "spec:entity/minder/animations/spawn/6" },
+	{ "predicate": { "custom_model_data": 7131062 }, "model": "spec:entity/minder/animations/attack/1" },
+	{ "predicate": { "custom_model_data": 7131063 }, "model": "spec:entity/minder/animations/attack/2" },
+	{ "predicate": { "custom_model_data": 7131064 }, "model": "spec:entity/minder/animations/attack/3" },
+	{ "predicate": { "custom_model_data": 7131065 }, "model": "spec:entity/minder/animations/attack/4" },
+	{ "predicate": { "custom_model_data": 7131066 }, "model": "spec:entity/minder/animations/attack/5" },
+	{ "predicate": { "custom_model_data": 7131067 }, "model": "spec:entity/minder/animations/attack/6" }
   ]
 }

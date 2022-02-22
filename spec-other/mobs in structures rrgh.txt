@@ -1,0 +1,2 @@
+/execute align xyz run summon minecraft:witch ~0.5 ~ ~0.5 {Silent:1,Invulnerable:1,Tags:["spec.spawn_marker","spec.spawn_marker.heretic"],NoAI:1}
+/execute align xyz run summon minecraft:witch ~0.5 ~ ~0.5 {Silent:1,Invulnerable:1,Tags:["spec.spawn_marker","spec.spawn_marker.zealot"],NoAI:1}

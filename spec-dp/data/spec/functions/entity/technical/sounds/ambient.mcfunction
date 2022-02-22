@@ -6,3 +6,4 @@ execute as @s[tag=spec.entity.virtue] run playsound spec:entity.virtue.ambient n
 execute as @s[tag=spec.entity.gray] run playsound spec:entity.gray.ambient neutral @a
 execute as @s[tag=spec.entity.righty] run playsound spec:entity.imp.ambient neutral @a ~ ~ ~ 0.5 0.8
 execute as @s[tag=spec.entity.lefty] run playsound spec:entity.cherub.ambient neutral @a ~ ~ ~ 0.5 1.25
+execute as @s[tag=spec.entity.minder] run playsound spec:entity.minder.ambient neutral @a

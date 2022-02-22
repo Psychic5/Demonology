@@ -10,6 +10,51 @@
         "projection": "rigid",
         "processors": "spec:sanctum_dungeon_degrade"
       }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "spec:sanctum/dungeons/ritual_b",
+        "projection": "rigid",
+        "processors": "spec:sanctum_dungeon_degrade"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "spec:sanctum/dungeons/ritual_c",
+        "projection": "rigid",
+        "processors": "spec:sanctum_dungeon_degrade"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "spec:sanctum/dungeons/diner_a",
+        "projection": "rigid",
+        "processors": "spec:sanctum_dungeon_degrade"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "spec:sanctum/dungeons/diner_b",
+        "projection": "rigid",
+        "processors": "spec:sanctum_dungeon_degrade"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "spec:sanctum/dungeons/bedroom_a",
+        "projection": "rigid",
+        "processors": "spec:sanctum_dungeon_degrade"
+      }
     }
   ]
 }

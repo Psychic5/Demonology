@@ -4,7 +4,6 @@
 	"spec.ui.config": "- CONFIG -",
 	"spec.ui.false": "[False]",
 	"spec.ui.true": "[True]",
-	"spec.ui.gamerule.rain_totems": "Allow Rain Totems ",
 	
 	"spec.item.chevon": "Raw Chevon",
 	"spec.item.cooked_chevon": "Cooked Chevon",
@@ -30,12 +29,15 @@
 	"spec.item.effigy_of_influence": "Effigy of Influence",
 	"spec.item.ghast_quiver": "Ghast Quiver",
 	"spec.item.sanctum_map": "Mountaintops Explorer Map",
+	"spec.item.coeruleum_ingot": "Coeruleum Ingot",
+	"spec.item.lamp": "Vapor Lamp",
 
         "spec.attribute.soul_collection.+": "+%s%% Reaping",
 	
 	"spec.soul": "Soul",
 	"spec.souls": "Souls",
 	"spec.souls.consume": "(-%s)",
+	"spec.souls.cost": "Consumes %s Souls",
 	
 	"spec.item.embalming_fluid": "Embalming Fluid",
 	"spec.item.pestilent_balm": "Pestilent Balm",
@@ -82,6 +84,8 @@
 	"spec.entity.zealot": "Zealot",
 	"spec.entity.jinx": "Jinx",
 	"spec.entity.mimic": "Mimic",
+	"spec.entity.soul": "Ghost",
+	"spec.entity.minder": "Minder",
 	
 	"spec.subtitle.entity.player.soul": "Player absorbs soul",
 	"spec.subtitle.entity.imp.ambient": "Imp murmurs",
@@ -124,7 +128,8 @@
 	"spec.subtitle.entity.heretic.ambient": "Heretic mumbles",
 	"spec.subtitle.entity.heretic.hurt": "Heretic hurts",
 	"spec.subtitle.entity.heretic.death": "Heretic dies",
-	"spec.subtitle.entity.heretic.attack": "Heretic shanks",
+	"spec.subtitle.entity.heretic.reload": "Heretic reloads",
+	"spec.subtitle.entity.heretic.shoot": "Heretic shoot",
 	"spec.subtitle.entity.zealot.ambient": "Zealot cackles",
 	"spec.subtitle.entity.zealot.hurt": "Zealot hurts",
 	"spec.subtitle.entity.zealot.death": "Zealot dies",
@@ -144,6 +149,12 @@
 	"spec.subtitle.entity.bapholet.prepare_ice": "Bapholet prepares ice beam",
 	"spec.subtitle.entity.bapholet.prepare_fire": "Bapholet prepares fireball",
 	"spec.subtitle.entity.bapholet.prepare_wood": "Bapholet prepares wood hammer",
+	"spec.subtitle.entity.minder.ambient": "Minder whistles",
+	"spec.subtitle.entity.minder.hurt": "Minder hurts",
+	"spec.subtitle.entity.minder.death": "Minder dies",
+	"spec.subtitle.entity.minder.attack": "Minder attacks",
+	"spec.subtitle.entity.minder.spawn": "Minder manifests",
+	"spec.subtitle.entity.minder.despawn": "Minder disapparates",
 	
 	"spec.dialog.virtue.neutral": "<%s> Hmm, your soul is in perfect balance. We have not to advise",
 	"spec.dialog.virtue.dark": "<%s> Your soul opposes the tradition of our people. Beware.",
@@ -157,8 +168,8 @@
 	"spec.death.imp": "%s was fried by %s",
 	"spec.death.yhara_slam": "%s had their world shook by %s",
 	"spec.death.corkscrew": "%s had their face melted off by %s",
-	"spec.death.zealot": "%s was hexxed by %s",
 	"spec.death.heretic": "%s was shanked by %s",
+	"spec.death.minder": "%s was pounded by %s's %s",
 	
 	"spec.ui.abyssal": "%s Abyssal Proficiency",
 	"spec.ui.abyssal.+": "+%s Abyssal Proficiency",

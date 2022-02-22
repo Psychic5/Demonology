@@ -6,3 +6,4 @@ execute if entity @s[nbt={Item:{tag:{spec:{entity:"virtue"}}}}] run playsound sp
 execute if entity @s[nbt={Item:{tag:{spec:{entity:"gray"}}}}] run playsound spec:entity.gray.death neutral @a
 execute if entity @s[nbt={Item:{tag:{spec:{entity:"righty"}}}}] run playsound spec:entity.imp.death neutral @a ~ ~ ~ 0.5 0.8
 execute if entity @s[nbt={Item:{tag:{spec:{entity:"lefty"}}}}] run playsound spec:entity.cherub.death neutral @a ~ ~ ~ 0.5 1.25
+execute if entity @s[nbt={Item:{tag:{spec:{entity:"minder"}}}}] run playsound spec:entity.minder.death neutral @a

@@ -48,3 +48,4 @@ execute store result score #spec.difficulty spec.dummy run difficulty
 ## Sbifed
 team add smithed.prevent_aggression
 team modify smithed.prevent_aggression friendlyFire false
+team modify smithed.prevent_aggression nametagVisibility never

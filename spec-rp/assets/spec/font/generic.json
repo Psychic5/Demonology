@@ -8,6 +8,15 @@
       "chars": [
         "\ua000"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:particle/soul_9.png",
+      "ascent": 7,
+      "height": 18,
+      "chars": [
+        "\ua001"
+      ]
     }
   ]
 }

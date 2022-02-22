@@ -6,3 +6,4 @@ execute as @s[tag=spec.entity.virtue] run playsound spec:entity.virtue.hurt neut
 execute as @s[tag=spec.entity.gray] run playsound spec:entity.gray.hurt neutral @a
 execute as @s[tag=spec.entity.righty] run playsound spec:entity.imp.hurt neutral @a ~ ~ ~ 0.5 0.8
 execute as @s[tag=spec.entity.lefty] run playsound spec:entity.cherub.hurt neutral @a ~ ~ ~ 0.5 1.25
+execute as @s[tag=spec.entity.minder] run playsound spec:entity.minder.hurt neutral @a

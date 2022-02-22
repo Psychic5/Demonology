@@ -95,6 +95,24 @@
   "entity.gray.death": { "subtitle": "spec.subtitle.entity.gray.death", "sounds": [
 "spec:entity/gray/death" ]},
 
+  "entity.minder.ambient": { "subtitle": "spec.subtitle.entity.minder.ambient", "sounds": [
+"spec:entity/minder/idle0", "spec:entity/minder/idle1", "spec:entity/minder/idle2", "spec:entity/minder/idle3", "spec:entity/minder/idle4", "spec:entity/minder/idle5" ]},
+
+  "entity.minder.hurt": { "subtitle": "spec.subtitle.entity.minder.hurt", "sounds": [
+"spec:entity/minder/hurt0", "spec:entity/minder/hurt1", "spec:entity/minder/hurt2" ]},
+
+  "entity.minder.death": { "subtitle": "spec.subtitle.entity.minder.death", "sounds": [
+"spec:entity/minder/death" ]},
+
+  "entity.minder.attack": { "subtitle": "spec.subtitle.entity.minder.attack", "sounds": [
+"spec:entity/minder/hit0", "spec:entity/minder/hit1" ]},
+
+  "entity.minder.spawn": { "subtitle": "spec.subtitle.entity.minder.spawn", "sounds": [
+"spec:entity/minder/spawn" ]},
+
+  "entity.minder.despawn": { "subtitle": "spec.subtitle.entity.minder.despawn", "sounds": [
+"spec:entity/minder/despawn" ]},
+
   "item.spectrometer.use": { "subtitle": "spec.subtitle.item.spectrometer", "sounds": [
 "minecraft:block/lodestone/lock1", "minecraft:block/lodestone/lock2" ]},
 

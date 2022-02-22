@@ -3,6 +3,7 @@
   "values": [
     "#spec:antivil",
     "minecraft:creeper",
-    "minecraft:zombified_piglin"
+    "minecraft:zombified_piglin",
+    "minecraft:witch"
   ]
 }

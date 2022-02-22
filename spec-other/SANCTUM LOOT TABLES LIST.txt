@@ -1,3 +1,4 @@
-spec:chests/sanctum/library
+spec:chests/sanctum/study
 spec:chests/sanctum/crypt
 spec:chests/sanctum/ritual
+spec:chests/sanctum/butchery
