@@ -9,12 +9,12 @@
 [] Virtue spawning
 [] Better angel attacking
 [] Premade wiki
-[] Sanctum
+[] Observer and Bapholet
 [] Playtesting
 
 0.2
 - More fleshed out Angels
 - More Demons
-- Scarmine
+- Scarmine & Coeruleum
 - Traumalium as a counterpart to Scarmine?
 - Garlic?

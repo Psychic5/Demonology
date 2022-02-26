@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:carrot_on_a_stick"
+          ],
+          "nbt": "{spec:{id:\"spindle_sickle\"}}"
+        },
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:sweet_berry_bush"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "spec:item/spindle_sickle/raycast/berry/start"
+  }
+}

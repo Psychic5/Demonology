@@ -1,2 +1,6 @@
 /execute align xyz run summon minecraft:witch ~0.5 ~ ~0.5 {Silent:1,Invulnerable:1,Tags:["spec.spawn_marker","spec.spawn_marker.heretic"],NoAI:1}
 /execute align xyz run summon minecraft:witch ~0.5 ~ ~0.5 {Silent:1,Invulnerable:1,Tags:["spec.spawn_marker","spec.spawn_marker.zealot"],NoAI:1}
+
+summon silverfish -390 60 -521 {Silent:1,Invulnerable:1,Tags:["spec.spawn_marker","spec.spawn_marker.downer"],NoAI:1}
+
+/execute align xyz run summon minecraft:turtle ~0.5 ~ ~0.5 {Age:-1000,Silent:1,Invulnerable:1,Tags:["spec.structure_postgen","spec.structure_postgen.downer_post"],NoAI:1}

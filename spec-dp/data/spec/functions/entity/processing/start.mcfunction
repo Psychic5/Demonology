@@ -9,8 +9,10 @@ execute if predicate spec:entity/processing/spawn_yhara run function spec:entity
 execute if predicate spec:entity/processing/spawn_corkscrew run function spec:entity/processing/spawn/corkscrew
 
 ## Structure Mob Postgen
-execute as @s[tag=spec.spawn_marker.heretic] run function spec:entity/processing/postgen/heretic
-execute as @s[tag=spec.spawn_marker.zealot] run function spec:entity/processing/postgen/zealot
+execute as @s[tag=spec.spawn_marker.downer] run function spec:entity/processing/postgen/mob/downer
+
+## Postgen
+execute as @s[tag=spec.structure_postgen.downer_post] run function spec:entity/processing/postgen/structure/downer_post/start
 
 ## Wrapup
 tag @s add spec.processed

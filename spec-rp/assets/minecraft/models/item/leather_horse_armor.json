@@ -71,6 +71,7 @@
 	{ "predicate": { "custom_model_data": 7131064 }, "model": "spec:entity/minder/animations/attack/3" },
 	{ "predicate": { "custom_model_data": 7131065 }, "model": "spec:entity/minder/animations/attack/4" },
 	{ "predicate": { "custom_model_data": 7131066 }, "model": "spec:entity/minder/animations/attack/5" },
-	{ "predicate": { "custom_model_data": 7131067 }, "model": "spec:entity/minder/animations/attack/6" }
+	{ "predicate": { "custom_model_data": 7131067 }, "model": "spec:entity/minder/animations/attack/6" },
+	{ "predicate": { "custom_model_data": 7131068 }, "model": "spec:entity/downer/idle" }
   ]
 }

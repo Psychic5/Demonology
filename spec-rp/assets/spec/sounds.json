@@ -137,6 +137,9 @@
   "item.ghast_quiver": { "subtitle": "spec.subtitle.item.ghast_quiver", "sounds": [
 "spec:item/ghast_quiver" ]},
 
+  "item.spindle_sickle": { "subtitle": "spec.subtitle.item.spindle_sickle", "sounds": [
+"spec:item/spindle_sickle/use0", "spec:item/spindle_sickle/use1", "spec:item/spindle_sickle/use2" ]},
+
   "block.balm_vat.mix": { "subtitle": "spec.subtitle.block.balm_vat.mix", "sounds": [
 "spec:block/balm_vat/mix" ]},
 

@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/glistering_melon_slice"
               },
   "overrides": [
-	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:item/bile" }
+	{ "predicate": { "custom_model_data": 7131000 }, "model": "spec:item/bile" },
+	{ "predicate": { "custom_model_data": 7131001 }, "model": "spec:item/ginger" },
+	{ "predicate": { "custom_model_data": 7131002 }, "model": "spec:item/elderberries" }
   ]
 }

@@ -1,0 +1,2 @@
+execute unless block ^ ^ ^0.025 #spec:raycast_ignore run function spec:item/anima_lamp/end
+execute if entity @s[distance=..12] positioned ^ ^ ^0.025 if block ~ ~ ~ #spec:raycast_ignore run function spec:item/anima_lamp/raycast

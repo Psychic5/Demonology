@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ #spec:crops run function spec:item/spindle_sickle/raycast/end
+execute if entity @s[distance=..6] unless block ~ ~ ~ #spec:crops positioned ^ ^ ^0.025 if block ~ ~ ~ #spec:raycast_ignore run function spec:item/spindle_sickle/raycast/raycast

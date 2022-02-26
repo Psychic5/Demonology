@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ minecraft:sweet_berry_bush run function spec:item/spindle_sickle/raycast/berry/end
+execute if entity @s[distance=..6] unless block ~ ~ ~ minecraft:sweet_berry_bush positioned ^ ^ ^0.025 if block ~ ~ ~ #spec:raycast_ignore run function spec:item/spindle_sickle/raycast/berry/raycast

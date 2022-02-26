@@ -1,0 +1,1 @@
+execute anchored eyes run function spec:item/anima_lamp/raycast

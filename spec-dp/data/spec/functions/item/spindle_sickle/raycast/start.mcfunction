@@ -1,0 +1,1 @@
+execute anchored eyes run function spec:item/spindle_sickle/raycast/raycast

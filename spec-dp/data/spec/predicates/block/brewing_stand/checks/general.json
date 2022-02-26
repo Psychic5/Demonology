@@ -4,6 +4,14 @@
     {
       "condition": "minecraft:reference",
       "name": "spec:block/brewing_stand/checks/bile"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "spec:block/brewing_stand/checks/ginger"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "spec:block/brewing_stand/checks/elderberries"
     }
   ]
 }

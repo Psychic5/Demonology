@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "config": {
+    "start_pool": "spec:postgen/downer_post",
+    "size": 1
+  },
+  "biomes": "minecraft:soul_sand_valley",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}

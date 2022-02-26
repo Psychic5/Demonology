@@ -1,12 +1,30 @@
 {
   "criteria": {
-    "furnace": {
+    "place": {
       "trigger": "minecraft:placed_block",
       "conditions": {
         "block": "minecraft:brewing_stand"
       }
+    },
+    "interact": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:brewing_stand"
+            ]
+          }
+        }
+      }
     }
   },
+  "requirements": [
+    [
+      "interact",
+      "place"
+    ]
+  ],
   "rewards": {
     "function": "spec:block/brewing_stand/place/start"
   }
