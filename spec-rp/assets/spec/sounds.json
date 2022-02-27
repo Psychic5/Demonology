@@ -156,5 +156,8 @@
 "spec:block/altar/item0", "spec:block/altar/item1", "spec:block/altar/item2", "spec:block/altar/item3" ]},
 
   "block.altar.use": { "subtitle": "spec.subtitle.block.altar.use", "sounds": [
-"spec:block/altar/use" ]}
+"spec:block/altar/use" ]},
+
+  "block.incense_lamp.use": { "subtitle": "spec.subtitle.block.incense_lamp.use", "sounds": [
+"spec:block/incense_lamp/use0", "spec:block/incense_lamp/use1", "spec:block/incense_lamp/use2", "spec:block/incense_lamp/use3" ]}
 }

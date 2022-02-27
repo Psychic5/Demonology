@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:structure_block",
+          "name": "minecraft:carrot_on_a_stick",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -14,13 +14,13 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{spec:{id:\"flayed_cells\"},CustomModelData:7131005}"
+              "tag": "{HideFlags:4,Unbreakable:1b,spec:{id:\"incense_lamp\",color:\"green\"},CustomModelData:7131019}"
             },
             {
               "function": "minecraft:set_name",
               "name": [
                 {
-                  "translate": "spec.item.flayed_cells",
+                  "translate": "spec.block.green_incense_lamp",
                   "color": "white",
                   "italic": "false"
                 }

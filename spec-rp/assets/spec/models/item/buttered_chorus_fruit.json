@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "spec:item/flayed_cells"
+    "layer0": "spec:item/buttered_chorus_fruit"
   }
 }

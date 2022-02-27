@@ -76,6 +76,18 @@
 	{ "predicate": { "custom_model_data": 7131069 }, "model": "spec:block/incense_lamp/closed" },
 	{ "predicate": { "custom_model_data": 7131070 }, "model": "spec:block/incense_lamp/open" },
 	{ "predicate": { "custom_model_data": 7131071 }, "model": "spec:block/incense_lamp/closed_full" },
-	{ "predicate": { "custom_model_data": 7131072 }, "model": "spec:block/incense_lamp/open_full" }
+	{ "predicate": { "custom_model_data": 7131072 }, "model": "spec:block/incense_lamp/open_full" },
+	{ "predicate": { "custom_model_data": 7131073 }, "model": "spec:block/incense_lamp/red/closed" },
+	{ "predicate": { "custom_model_data": 7131074 }, "model": "spec:block/incense_lamp/red/open" },
+	{ "predicate": { "custom_model_data": 7131075 }, "model": "spec:block/incense_lamp/red/closed_full" },
+	{ "predicate": { "custom_model_data": 7131076 }, "model": "spec:block/incense_lamp/red/open_full" },
+	{ "predicate": { "custom_model_data": 7131077 }, "model": "spec:block/incense_lamp/blue/closed" },
+	{ "predicate": { "custom_model_data": 7131078 }, "model": "spec:block/incense_lamp/blue/open" },
+	{ "predicate": { "custom_model_data": 7131079 }, "model": "spec:block/incense_lamp/blue/closed_full" },
+	{ "predicate": { "custom_model_data": 7131080 }, "model": "spec:block/incense_lamp/blue/open_full" },
+	{ "predicate": { "custom_model_data": 7131081 }, "model": "spec:block/incense_lamp/green/closed" },
+	{ "predicate": { "custom_model_data": 7131082 }, "model": "spec:block/incense_lamp/green/open" },
+	{ "predicate": { "custom_model_data": 7131083 }, "model": "spec:block/incense_lamp/green/closed_full" },
+	{ "predicate": { "custom_model_data": 7131084 }, "model": "spec:block/incense_lamp/green/open_full" }
   ]
 }
