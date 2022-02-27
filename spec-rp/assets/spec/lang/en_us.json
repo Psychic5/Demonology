@@ -44,9 +44,6 @@
 	"spec.souls.cost": "Consumes %s Souls",
 	
 	"spec.item.embalming_fluid": "Embalming Fluid",
-	"spec.item.pestilent_balm": "Pestilent Balm",
-	"spec.item.piquant_balm": "Piquant Balm",
-	"spec.item.discordant_balm": "Discordant Balm",
 	
 	"spec.item.abyssal_scripture": "Abyssal Scripture",
 	"spec.item.celestial_scripture": "Celestial Scripture",
@@ -64,17 +61,17 @@
 	"spec.subtitle.item.ghast_quiver": "Ghast Quiver used",
 	"spec.subtitle.item.spindle_sickle": "Spindle Sickle harvests",
 	
-	"spec.block.balm_vat": "Balm Vat",
 	"spec.block.scarlet_portal": "Scarlet Portal",
 	"spec.block.altar": "Deepslate Altar",
 	"spec.block.spine_rope": "Spinal Rope",
+	"spec.block.incense_lamp": "Incense Lamp",
 	
-	"spec.subtitle.block.balm_vat.mix": "Balm Vat churns",
-	"spec.subtitle.block.balm_vat.bone": "Balm Vat filled",
-	"spec.subtitle.block.scarlet_portal.ambient": "Scarlet Portal fluxes",
+	"spec.subtitle.block.scarlet_portal.ambient": "Scarlet Portal crackles",
 	"spec.subtitle.block.scarlet_portal.travel": "Something exits Scarlet Portal",
 	"spec.subtitle.block.altar.item": "Altar clatters",
 	"spec.subtitle.block.altar.use": "Altar crafts",
+	"spec.subtitle.block.incense_lamp.ambient": "Incense Lamp steams",
+	"spec.subtitle.block.incense_lamp.use": "Incense Lamp filled",
 	
 	"spec.entity.imp": "Imp",
 	"spec.entity.yhara": "Yharamayawho",
@@ -173,12 +170,9 @@
 	"spec.ui.celestial.-": "-%s Celestial Proficiency",
 	"spec.ui.spell.cant_cast": "You cannot pronounce the incantation!",
 	
-	"spec.ui.gives_effect": "%s %s (%s:%s)",
+	"spec.ui.effect": "%s %s (%s:%s)",
 	"spec.effect.agony": "Agony",
 	"spec.effect.corrosion": "Corrosion",
-	"spec.effect.scent.pestilent": "Pestilent Stench",
-	"spec.effect.scent.piquant": "Piquant Scent",
-	"spec.effect.scent.discordant": "Discordant Scent",
 	
 	"spec.advancement.spectrum.root": "Consequences",
 	"spec.advancement.spectrum.root.desc": "Retribution for your crimes, and reward for your virtues",
@@ -186,8 +180,6 @@
 	"spec.advancement.spectrum.yhara.desc": "Slay a Yharamayawho of the arid plains",
 	"spec.advancement.spectrum.embalming_fluid": "Rigor Mortis Begone!",
 	"spec.advancement.spectrum.embalming_fluid.desc": "Brew a Yharamayawho's Glossy Bile into an Embalming Fluid",
-	"spec.advancement.spectrum.balm": "Balms Away",
-	"spec.advancement.spectrum.balm.desc": "Produce and use a scented Balm using a Balm Vat",
 	"spec.advancement.spectrum.cherub": "Bright Idea",
 	"spec.advancement.spectrum.cherub.desc": "Trade with a Cherub",
 	"spec.advancement.spectrum.virtue": "Repentance",

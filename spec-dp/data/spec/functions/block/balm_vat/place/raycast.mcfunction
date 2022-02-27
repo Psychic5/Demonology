@@ -1,2 +1,0 @@
-execute unless block ^ ^ ^0.025 #spec:raycast_ignore align xyz unless entity @e[tag=smithed.block,distance=0..0.51] run function spec:block/balm_vat/place/end
-execute if entity @s[distance=..7] positioned ^ ^ ^0.025 if block ~ ~ ~ #spec:raycast_ignore run function spec:block/balm_vat/place/raycast

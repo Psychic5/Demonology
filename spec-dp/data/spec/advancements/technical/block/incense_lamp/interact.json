@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "hopper": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"spec.block.incense_lamp\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "spec:block/incense_lamp/interact/start"
+  }
+}

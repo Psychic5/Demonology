@@ -1,0 +1,4 @@
+execute align xyz run summon wandering_trader ~0.5 ~-1 ~0.5 {Silent:1b,Team:"smithed.prevent_aggression",DeathTime:19,DeathLootTable:"spec:item/incense_lamp",PersistenceRequired:1b,NoAI:1b,Health:1f,DespawnDelay:999999,Tags:["spec.block","spec.block.incense_lamp","spec.tag.incense_lamp.empty","smithed.block"],HandItems:[{id:"minecraft:leather_horse_armor",Count:1b,tag:{CustomModelData:7131070}},{}],HandDropChances:[-327.670F,0.085F],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:1}],Offers:{}}
+
+execute if predicate spec:entity/player/survival run item replace entity @s weapon.mainhand with air
+playsound minecraft:block.copper.place block @a ~ ~ ~ 1 0.75

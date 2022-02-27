@@ -19,6 +19,7 @@
 	{ "predicate": { "custom_model_data": 7131012 }, "model": "spec:item/ghast_quiver" },
 	{ "predicate": { "custom_model_data": 7131013 }, "model": "spec:item/anima_lamp" },
 	{ "predicate": { "custom_model_data": 7131014 }, "model": "spec:item/spine_rope" },
-	{ "predicate": { "custom_model_data": 7131015 }, "model": "spec:item/spindle_sickle" }
+	{ "predicate": { "custom_model_data": 7131015 }, "model": "spec:item/spindle_sickle" },
+	{ "predicate": { "custom_model_data": 7131016 }, "model": "spec:item/incense_lamp" }
   ]
 }

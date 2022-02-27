@@ -1,4 +1,3 @@
-execute as @s[tag=spec.block.balm_vat] run function spec:block/balm_vat/tick_1s
-
-data remove entity @s[tag=!spec.tag.has_trades] Offers.Recipes
+data remove entity @s[type=wandering_trader] Offers.Recipes
+data modify entity @s[type=wandering_trader] DespawnDelay set value 999999
 effect give @s minecraft:invisibility 1000000 0 true

@@ -5,7 +5,7 @@ execute if predicate spec:item/holding/ghast_quiver if score @s spec.souls match
 execute if predicate spec:item/holding/offhand/ghast_quiver if score @s spec.souls matches 1.. run function spec:item/ghast_quiver
 execute if predicate spec:item/holding/anima_lamp if score @s spec.souls matches 7.. run function spec:item/anima_lamp/start
 
-execute if predicate spec:item/holding/balm_vat run function spec:block/balm_vat/place/start
+execute if predicate spec:item/holding/incense_lamp run function spec:block/incense_lamp/place/start
 execute if predicate spec:item/holding/altar run function spec:block/altar/place/start
 
 scoreboard players reset @s spec.carrot_on_a_stick
