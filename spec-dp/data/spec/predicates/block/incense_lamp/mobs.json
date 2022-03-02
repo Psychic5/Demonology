@@ -1,0 +1,19 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{Tags:[\"spec.tag.demonic\"]}"
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "#spec:incense_lamp_spawned"
+      }
+    }
+  ]
+}

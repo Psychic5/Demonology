@@ -1,7 +1,0 @@
-corkscrew quest - kill a corkscrew with a wood pick
-nvs quest - brew a night vision potion??
-heal quest - brew a potion of healing or regen
-rogue ice imp - kill the ice imp found outside of its habitat
-yhara - kill a yhara
-ghast - kill a ghast using fireworks from a crossbow
-hogfest - breed 2 hoglins

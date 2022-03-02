@@ -6,5 +6,12 @@ execute if predicate spec:item/holding/incense_lamp/blue align xyz run summon wa
 
 execute if predicate spec:item/holding/incense_lamp/green align xyz run summon wandering_trader ~0.5 ~-1 ~0.5 {Silent:1b,Team:"smithed.prevent_aggression",DeathTime:19,DeathLootTable:"spec:item/green_incense_lamp",PersistenceRequired:1b,NoAI:1b,Health:1f,DespawnDelay:999999,Tags:["spec.block","spec.block.incense_lamp","spec.tag.incense_lamp.empty","smithed.block"],ArmorItems:[{},{},{},{id:"minecraft:leather_horse_armor",Count:1b,tag:{CustomModelData:7131000,spec:{Display:{Closed:7131081,Open:7131082,FullClosed:7131083,FullOpen:7131084}}}}],ArmorDropChances:[0.085F,0.085F,0.085F,-327.670F],HandItems:[{id:"minecraft:leather_horse_armor",Count:1b,tag:{CustomModelData:7131082}},{}],HandDropChances:[-327.670F,0.085F],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:1}],Offers:{}}
 
+execute store result score @s spec.temp run data get entity @s Rotation[0]
+
+execute if score @s spec.temp matches -135..-45 positioned ~ ~-1 ~ run data merge entity @e[type=wandering_trader,sort=nearest,limit=1,tag=spec.block.incense_lamp] {Rotation:[90.0f,0.0f]}
+execute if score @s spec.temp matches 45..135 positioned ~ ~-1 ~ run data merge entity @e[type=wandering_trader,sort=nearest,limit=1,tag=spec.block.incense_lamp] {Rotation:[270.0f,0.0f]}
+execute if score @s spec.temp matches -45..45 positioned ~ ~-1 ~ run data merge entity @e[type=wandering_trader,sort=nearest,limit=1,tag=spec.block.incense_lamp] {Rotation:[180.0f,0.0f]}
+scoreboard players reset @s spec.temp
+
 execute if predicate spec:entity/player/survival run item replace entity @s weapon.mainhand with air
 playsound minecraft:block.copper.place block @a ~ ~ ~ 1 1.25

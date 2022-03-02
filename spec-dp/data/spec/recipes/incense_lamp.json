@@ -1,0 +1,14 @@
+{
+"type": "crafting_shaped",
+"pattern": [
+"   ",
+"F F",
+"CFC"
+],
+"key": {
+"F": {"item": "minecraft:terracotta"},
+"C": {"item": "minecraft:paper"}
+},
+"result": {
+"item": "minecraft:knowledge_book"
+}}

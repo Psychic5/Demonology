@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:7131016}"
+    },
+    "title": {
+      "translate": "spec.advancement.spectrum.incense"
+    },
+    "description": {
+      "translate": "spec.advancement.spectrum.incense.desc"
+    },
+    "frame": "goal"
+  },
+  "parent": "spec:spectrum/embalming_fluid",
+  "criteria": {
+    "no": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:flint_and_steel"
+          ]
+        },
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"spec.tag.incense_lamp.ginger\"]}"
+        }
+      }
+    }
+  }
+}

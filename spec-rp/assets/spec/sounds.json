@@ -159,5 +159,11 @@
 "spec:block/altar/use" ]},
 
   "block.incense_lamp.use": { "subtitle": "spec.subtitle.block.incense_lamp.use", "sounds": [
-"spec:block/incense_lamp/use0", "spec:block/incense_lamp/use1", "spec:block/incense_lamp/use2", "spec:block/incense_lamp/use3" ]}
+"spec:block/incense_lamp/use0", "spec:block/incense_lamp/use1", "spec:block/incense_lamp/use2", "spec:block/incense_lamp/use3" ]},
+
+  "block.incense_lamp.ignite": { "subtitle": "spec.subtitle.block.incense_lamp.ignite", "sounds": [
+"spec:block/incense_lamp/ignite0", "spec:block/incense_lamp/ignite1" ]},
+
+  "block.incense_lamp.ambient": { "subtitle": "spec.subtitle.block.incense_lamp.ambient", "sounds": [
+"minecraft:block/candle/ambient1", "minecraft:block/candle/ambient2", "minecraft:block/candle/ambient3", "minecraft:block/candle/ambient4", "minecraft:block/candle/ambient5", "minecraft:block/candle/ambient6", "minecraft:block/candle/ambient7", "minecraft:block/candle/ambient8", "minecraft:block/candle/ambient9" ]}
 }

@@ -1,0 +1,1 @@
+execute as @s[tag=spec.tag.incense_lamp.lit] run function spec:block/incense_lamp/spawn/start

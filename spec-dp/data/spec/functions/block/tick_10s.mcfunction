@@ -1,0 +1,1 @@
+execute as @s[tag=spec.block.incense_lamp] run function spec:block/incense_lamp/tick_10s

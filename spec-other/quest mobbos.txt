@@ -1,0 +1,9 @@
+- Cupid -
+Spawn - Forests, Day
+The Cupid does not actively try to attack the player initially, it actively attempts to fly in the opposite direction of them.
+After being hit once, the Cupid will enrage, and will start burping up toxic ink which blinds and slows the player, as it continues to fly away.
+Once the player weakens the Cupid enough, it will lift up and attempt to fly away. If it gets out of range of any players with the quest to slay it, it will despawn.
+
+- Levilet -
+Spawn - Underground
+Levilet attacks by quickly running up to the player and casting a ring of soul fire around them

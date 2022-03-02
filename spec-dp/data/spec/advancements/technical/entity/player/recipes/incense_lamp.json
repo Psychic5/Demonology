@@ -1,0 +1,17 @@
+{
+  "parent": "spec:technical/entity/player/recipes/root",
+  "rewards": {
+    "function": "spec:entity/player/recipe",
+    "loot": [
+      "spec:item/incense_lamp"
+    ]
+  },
+  "criteria": {
+    "craft": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spec:incense_lamp"
+      }
+    }
+  }
+}

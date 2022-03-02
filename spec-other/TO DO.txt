@@ -1,15 +1,14 @@
 0.1
 [Done!] Fully remove language
-[] Finish balms pls
 [] Scarlet Portal
 [Done!] Gray SFX
 [] More quests
-[] Better Karma
+[] Remove Karma
 [] Soul Recipes (ANIMANTINE SOUL METAL???? (too similar to anirrum))
-[] Virtue spawning
 [] Better angel attacking
 [] Premade wiki
 [] Observer and Bapholet
+[] Lamp raycast improvements & Gilded Lamp obtaining
 [] Playtesting
 
 0.2
