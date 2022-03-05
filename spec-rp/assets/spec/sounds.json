@@ -18,7 +18,7 @@
 "spec:entity/imp/hurt0", "spec:entity/imp/hurt1", "spec:entity/imp/hurt2" ]},
 
   "entity.imp.death": { "subtitle": "spec.subtitle.entity.imp.death", "sounds": [
-"spec:entity/imp/death0", "spec:entity/imp/death1", "spec:entity/imp/death2" ]},
+"spec:entity/imp/death0", "spec:entity/imp/death1" ]},
 
   "entity.imp.prepare_cast": { "subtitle": "spec.subtitle.entity.imp.prepare_cast", "sounds": [
 "spec:entity/imp/prepare_cast0", "spec:entity/imp/prepare_cast1" ]},
