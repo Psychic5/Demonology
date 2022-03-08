@@ -1,0 +1,1 @@
+execute anchored eyes facing entity @p feet run function spec:entity/quest_targets/cupid/cast/raycast

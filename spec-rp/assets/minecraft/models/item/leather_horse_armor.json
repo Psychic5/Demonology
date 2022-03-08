@@ -91,6 +91,9 @@
 	{ "predicate": { "custom_model_data": 7131084 }, "model": "spec:block/incense_lamp/green/open_full" },
 	{ "predicate": { "custom_model_data": 7131085 }, "model": "spec:entity/imp/belpher/idle" },
 	{ "predicate": { "custom_model_data": 7131086 }, "model": "spec:entity/imp/belpher/moving" },
-	{ "predicate": { "custom_model_data": 7131087 }, "model": "spec:entity/imp/belpher/casting" }
+	{ "predicate": { "custom_model_data": 7131087 }, "model": "spec:entity/imp/belpher/casting" },
+	{ "predicate": { "custom_model_data": 7131088 }, "model": "spec:entity/cupid/idle" },
+	{ "predicate": { "custom_model_data": 7131089 }, "model": "spec:entity/cupid/moving" },
+	{ "predicate": { "custom_model_data": 7131090 }, "model": "spec:entity/cupid/retreat" }
   ]
 }

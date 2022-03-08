@@ -11,5 +11,8 @@ execute as @s[tag=spec.entity.corkscrew] run function spec:entity/corkscrew/tick
 execute as @s[tag=spec.entity.cherub] run function spec:entity/cherub/tick
 execute as @s[tag=spec.entity.minder] run function spec:entity/minder/tick
 
+execute as @s[tag=spec.entity.cupid] run function spec:entity/quest_targets/cupid/tick
+
 ## Projectiles
 execute as @s[tag=spec.entity.acid_tear] run function spec:entity/corkscrew/tear/tick
+execute as @s[tag=spec.entity.cupid_ink] run function spec:entity/quest_targets/cupid/ink/tick
